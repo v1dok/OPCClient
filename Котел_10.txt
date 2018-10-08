@@ -1,0 +1,14 @@
+H_baraban_k10_Val
+Q_p_p_k10_Val
+P_p_p_k10_Val
+T_p_p_k10_Val
+Q_pitvod_k10_Val
+T_pitvod_k10_Val
+Kislor_topka_k10_Val
+T_uhod_gaz_k10_Val
+T_gaz_za_skr_A_k10_Val
+T_gaz_za_skr_B_k10_Val
+T_hol_vozd_k10_Val
+T_aerosmes_k10_Val
+Q_vod_Skrubber_k10_Val
+Q_vod_Ventur_k10_Val

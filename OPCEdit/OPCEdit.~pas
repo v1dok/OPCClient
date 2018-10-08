@@ -1,0 +1,34 @@
+unit OPCEdit;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Classes, Graphics, Controls, Forms, Dialogs,
+  StdCtrls;
+
+type
+  TOPCEdit = class(TEdit)
+  private
+    { Private declarations }
+    FOPCTag:string;
+    FReserve:string;
+  protected
+    { Protected declarations }
+  public
+    { Public declarations }
+  published
+    { Published declarations }
+    property OPCTag:string read FOPCTag write FOPCTag;
+    property Reserve:string read FReserve write FReserve;
+  end;
+
+procedure Register;
+
+implementation
+
+procedure Register;
+begin
+  RegisterComponents('Standard', [TOPCEdit]);
+end;
+
+end.

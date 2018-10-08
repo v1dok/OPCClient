@@ -1,0 +1,77 @@
+KA-11
+AI_K11/P42.VB_OUT=Давление в коробе вторичного воздуха
+
+SystemArchive\AI_K11/P37.VB_OUT=Разрежение в топке справа
+SystemArchive\AI_K11/P38.VB_OUT=Разрежение в топке слева
+Сопротивление эмульгатора №4
+return (GetTagFloat("AI_K11/P94.VB_OUT") - GetTagFloat("P_atm"))*102.0 - GetTagFloat("AI_K11/P51.VB_OUT");
+Сопротивление эмульгатора №3
+return (GetTagFloat("AI_K11/P93.VB_OUT") - GetTagFloat("P_atm"))*102.0 - GetTagFloat("AI_K11/P51.VB_OUT");	
+Сопротивление эмульгатора №2
+return (GetTagFloat("AI_K11/P92.VB_OUT") - GetTagFloat("P_atm"))*102.0 - GetTagFloat("AI_K11/P50.VB_OUT");
+Сопротивление эмульгатора №1
+return (GetTagFloat("AI_K11/P91.VB_OUT") - GetTagFloat("P_atm"))*102.0 - GetTagFloat("AI_K11/P50.VB_OUT");	
+SystemArchive\AI_K11/P50.VB_OUT=Разрежение перед ДС А
+SystemArchive\AI_K11/P51.VB_OUT=Разрежение перед ДС Б
+AI_K11/P91.VB_OUT=Разрежение перед эмульгатором №1
+AI_K11/P92.VB_OUT=Разрежение перед эмульгатором №2
+AI_K11/P93.VB_OUT=Разрежение перед эмульгатором №3
+AI_K11/P94.VB_OUT=Разрежение перед эмульгатором №4
+ProcessValueArchive\P_atm=Атмосферное давление
+
+return (GetTagFloat("AI_K11/P91.VB_OUT")-GetTagFloat("P_atm"))*102.0;
+
+
+
+KA-12
+AI/P13.VB_OUT=Давление в коробе вторичного воздуха
+
+SystemArchive\AI/P11.VB_OUT=Разрежение в топке слева
+SystemArchive\AI/P10_1.VB_OUT=Разрежение в топке справа
+Сопротивление эмульгатора №4
+return (GetTagFloat("AI/P94.VB_OUT") - GetTagFloat("P_atm"))*102.0 - GetTagFloat("AI/P21.VB_OUT");
+Сопротивление эмульгатора №3
+return (GetTagFloat("AI/P93.VB_OUT") - GetTagFloat("P_atm"))*102.0 - GetTagFloat("AI/P21.VB_OUT");	
+Сопротивление эмульгатора №2
+return (GetTagFloat("AI/P92.VB_OUT") - GetTagFloat("P_atm"))*102.0 - GetTagFloat("AI/P20.VB_OUT");
+Сопротивление эмульгатора №1
+return (GetTagFloat("AI/P91.VB_OUT") - GetTagFloat("P_atm"))*102.0 - GetTagFloat("AI/P20.VB_OUT");	
+SystemArchive\AI/P20.VB_OUT=Разрежение перед дымососом ДС А
+SystemArchive\AI/P21.VB_OUT=Разрежение перед дымососом ДС Б
+Разрежение перед эмульгатором №4
+return (GetTagFloat("AI/P94.VB_OUT") - GetTagFloat("P_atm"))*102.0;
+Разрежение перед эмульгатором №3
+return (GetTagFloat("AI/P93.VB_OUT") - GetTagFloat("P_atm"))*102.0;
+Разрежение перед эмульгатором №2
+return (GetTagFloat("AI/P92.VB_OUT") - GetTagFloat("P_atm"))*102.0;
+Разрежение перед эмульгатором №1
+return (GetTagFloat("AI/P91.VB_OUT") - GetTagFloat("P_atm"))*102.0;
+
+KA-13
+AI_K13/P42.VB_OUT=Давление в коробе вторичного воздуха
+
+SystemArchive\AI_K13/P37.VB_OUT=Разрежение в топке справа
+SystemArchive\AI_K13/P38.VB_OUT=Разрежение в топке слева
+Разрежение перед эмульгатором №4
+return (GetTagFloat("AI_K13/P94.VB_OUT")-GetTagFloat("P_atm"))*102.0;
+Разрежение перед эмульгатором №3
+return (GetTagFloat("AI_K13/P93.VB_OUT")-GetTagFloat("P_atm"))*102.0;
+Разрежение перед эмульгатором №2
+return (GetTagFloat("AI_K13/P92.VB_OUT")-GetTagFloat("P_atm"))*102.0;
+Разрежение перед эмульгатором №1
+return (GetTagFloat("AI_K13/P91.VB_OUT")-GetTagFloat("P_atm"))*102.0;
+AI/P50.VB_OUT=Разрежение перед дымососом ДС А
+AI/P51.VB_OUT=Разрежение перед дымососом ДС Б
+
+KA-14
+L-14NR02-P01.UNIT14@NET0=Разрежение в топке слева
+L-14NR01-P01.UNIT14@NET0=Разрежение в топке справа
+14NS01-P02.UNIT14@NET0=Давление в коробе вторичного воздуха
+14NR01-P05.UNIT14@NET0=Разрежение перед дымососом ДС А
+14NR02-P05.UNIT14@NET0=Разрежение перед дымососом ДС Б
+14NR01-P08A.UNIT14@NET0=Разрежение перед эмульгатором №1
+14NR01-P07A.UNIT14@NET0=Разрежение перед эмульгатором №2
+14NR02-P08A.UNIT14@NET0=Разрежение перед эмульгатором №3
+14NR02-P07A.UNIT14@NET0=Разрежение перед эмульгатором №4
+
+KA-15

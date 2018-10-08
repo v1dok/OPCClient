@@ -1,0 +1,15 @@
+F_tg4
+N_tg4
+T_nn_za_GPZ_tg4
+P_nn_tg4
+T_on_tg4
+P_on_tg4
+Q_nn_tg4
+T_msl_do_MO_tg4
+T_msl_za_MO_tg4
+T_msl_podsh1_tg4
+T_msl_podsh2_tg4
+T_msl_podsh3_tg4
+T_msl_podsh4_tg4
+T_msl_podsh5_tg4
+T_vod_za_MO_tg4
