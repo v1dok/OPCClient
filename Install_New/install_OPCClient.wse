@@ -942,7 +942,7 @@ item: Include Script
   Pathname=%_WISE_%\INCLUDE\uninstal.wse
 end
 item: Install File
-  Source=z:\C\Projects\Delphi\OPCClient\InstallOPC\OPCProxy.dll
+  Source=z:\e\Projects\Delphi\OPCClient\InstallOPC\OPCProxy.dll
   Destination=%MAINDIR%\Library\OPCProxy.dll
   Flags=0000000010000011
   Version String=hci_10.23
@@ -954,7 +954,7 @@ item: Install File
   EXE Type=32
 end
 item: Install File
-  Source=Z:\C\Projects\Delphi\OPCClient\qtintf70.dll
+  Source=Z:\E\Projects\Delphi\OPCClient\qtintf70.dll
   Destination=%MAINDIR%\qtintf70.dll
   Flags=0000000010000011
   Version String=7.0.4.258
@@ -967,7 +967,7 @@ item: Install File
   EXE Type=32
 end
 item: Install File
-  Source=z:\C\Projects\Delphi\OPCClient\InstallOPC\opc_aeps.dll
+  Source=z:\E\Projects\Delphi\OPCClient\InstallOPC\opc_aeps.dll
   Destination=%MAINDIR%\Library\opc_aeps.dll
   Flags=0000000010000011
   Version String=1.0.4
@@ -980,7 +980,7 @@ item: Install File
   EXE Type=32
 end
 item: Install File
-  Source=z:\C\Projects\Delphi\OPCClient\InstallOPC\OPCAuto.dll
+  Source=z:\E\Projects\Delphi\OPCClient\InstallOPC\OPCAuto.dll
   Destination=%MAINDIR%\Library\OPCAuto.dll
   Flags=0000000010000010
   File Size=189952
@@ -988,7 +988,7 @@ item: Install File
   EXE Type=32
 end
 item: Install File
-  Source=z:\C\Projects\Delphi\OPCClient\InstallOPC\OPCComn_ps.dll
+  Source=z:\E\Projects\Delphi\OPCClient\InstallOPC\OPCComn_ps.dll
   Destination=%MAINDIR%\Library\OPCComn_ps.dll
   Flags=0000000010000010
   File Size=36352
@@ -996,7 +996,7 @@ item: Install File
   EXE Type=32
 end
 item: Install File
-  Source=z:\C\Projects\Delphi\OPCClient\InstallOPC\opchda_ps.dll
+  Source=z:\E\Projects\Delphi\OPCClient\InstallOPC\opchda_ps.dll
   Destination=%MAINDIR%\Library\opchda_ps.dll
   Flags=0000000010000011
   Version String=1, 0, 0, 0
@@ -1008,7 +1008,7 @@ item: Install File
   EXE Type=32
 end
 item: Install File
-  Source=z:\C\Projects\Delphi\OPCClient\OPCClient.exe
+  Source=z:\E\Projects\Delphi\OPCClient\OPCClient.exe
   Destination=%MAINDIR%\OPCClient.exe
   Flags=0000000010000010
   File Size=1437184

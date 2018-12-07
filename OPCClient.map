@@ -1,6 +1,6 @@
 
  Start         Length     Name                   Class
- 0001:00000000 000B764CH .text                   CODE
+ 0001:00000000 000B76C4H .text                   CODE
  0002:00000000 00002B80H .data                   DATA
  0002:00002B80 00000DF9H .bss                    BSS
 
@@ -97,40 +97,40 @@ Detailed map of segments
  0001:0008933C 00001444 C=CODE     S=.text    G=(none)   M=FrameCollectSPT ACBP=A9
  0001:0008A780 00000A94 C=CODE     S=.text    G=(none)   M=FrameChemist ACBP=A9
  0001:0008B214 00000038 C=CODE     S=.text    G=(none)   M=FrameChemist2 ACBP=A9
- 0001:0008B24C 000009E8 C=CODE     S=.text    G=(none)   M=FrameTurb_Ochered4 ACBP=A9
- 0001:0008BC34 000004D4 C=CODE     S=.text    G=(none)   M=FrameTurb_Ochered5 ACBP=A9
- 0001:0008C108 00000DFC C=CODE     S=.text    G=(none)   M=FrameTurb_TA10 ACBP=A9
- 0001:0008CF04 000004CC C=CODE     S=.text    G=(none)   M=FrameTurb_Ochered7 ACBP=A9
- 0001:0008D3D0 00000564 C=CODE     S=.text    G=(none)   M=FrameTurb_ROU10_13 ACBP=A9
- 0001:0008D934 000019B8 C=CODE     S=.text    G=(none)   M=FrameTurb_KA ACBP=A9
- 0001:0008F2EC 000004E0 C=CODE     S=.text    G=(none)   M=FrameTurb_NGVS ACBP=A9
- 0001:0008F7CC 00000610 C=CODE     S=.text    G=(none)   M=FrameTurb_Och4KA ACBP=A9
- 0001:0008FDDC 00001210 C=CODE     S=.text    G=(none)   M=FrameTurb_Och5KA ACBP=A9
- 0001:00090FEC 0000136C C=CODE     S=.text    G=(none)   M=FrameTurb_Och6KA ACBP=A9
- 0001:00092358 00001014 C=CODE     S=.text    G=(none)   M=FrameTurb_Och7KA ACBP=A9
- 0001:0009336C 0000048C C=CODE     S=.text    G=(none)   M=FrameTurb_PDU ACBP=A9
- 0001:000937F8 00001AC8 C=CODE     S=.text    G=(none)   M=FrameGASMET ACBP=A9
- 0001:000952C0 00000BB8 C=CODE     S=.text    G=(none)   M=FrameTurb_Och6Acoustics ACBP=A9
- 0001:00095E78 000015EC C=CODE     S=.text    G=(none)   M=FrameTurb_TA12 ACBP=A9
- 0001:00097464 000008F4 C=CODE     S=.text    G=(none)   M=FrameTurb_TEP_TA4_9 ACBP=A9
- 0001:00097D58 000007A8 C=CODE     S=.text    G=(none)   M=FrameTurb_TEP_TA10_12 ACBP=A9
- 0001:00098500 000010E0 C=CODE     S=.text    G=(none)   M=FrameTurb_TEP_KA7_15 ACBP=A9
- 0001:000995E0 00000504 C=CODE     S=.text    G=(none)   M=FrameTurb ACBP=A9
- 0001:00099AE4 00000A14 C=CODE     S=.text    G=(none)   M=FrameCollectSHA711 ACBP=A9
- 0001:0009A4F8 00000E68 C=CODE     S=.text    G=(none)   M=FrameTeplosetBalans ACBP=A9
- 0001:0009B360 00000274 C=CODE     S=.text    G=(none)   M=FrameBereg ACBP=A9
- 0001:0009B5D4 00000570 C=CODE     S=.text    G=(none)   M=FrameGradirnya ACBP=A9
- 0001:0009BB44 0000174C C=CODE     S=.text    G=(none)   M=FrameAskue ACBP=A9
- 0001:0009D290 000008E8 C=CODE     S=.text    G=(none)   M=FrameUPS ACBP=A9
- 0001:0009DB78 00000050 C=CODE     S=.text    G=(none)   M=JConsts  ACBP=A9
- 0001:0009DBC8 000133EC C=CODE     S=.text    G=(none)   M=jpeg     ACBP=A9
- 0001:000B0FB4 00000244 C=CODE     S=.text    G=(none)   M=FormAbout ACBP=A9
- 0001:000B11F8 00002190 C=CODE     S=.text    G=(none)   M=FrameOwnNeeds ACBP=A9
- 0001:000B3388 000009FC C=CODE     S=.text    G=(none)   M=FrameTeploset ACBP=A9
- 0001:000B3D84 00001338 C=CODE     S=.text    G=(none)   M=FrameSummary ACBP=A9
- 0001:000B50BC 0000159C C=CODE     S=.text    G=(none)   M=MyCl     ACBP=A9
- 0001:000B6658 00000B54 C=CODE     S=.text    G=(none)   M=OPCutils ACBP=A9
- 0001:000B71AC 000004A0 C=CODE     S=.text    G=(none)   M=MyOPC    ACBP=A9
+ 0001:0008B24C 00000A08 C=CODE     S=.text    G=(none)   M=FrameTurb_Ochered4 ACBP=A9
+ 0001:0008BC54 000004D4 C=CODE     S=.text    G=(none)   M=FrameTurb_Ochered5 ACBP=A9
+ 0001:0008C128 00000DFC C=CODE     S=.text    G=(none)   M=FrameTurb_TA10 ACBP=A9
+ 0001:0008CF24 000004CC C=CODE     S=.text    G=(none)   M=FrameTurb_Ochered7 ACBP=A9
+ 0001:0008D3F0 00000564 C=CODE     S=.text    G=(none)   M=FrameTurb_ROU10_13 ACBP=A9
+ 0001:0008D954 000019AC C=CODE     S=.text    G=(none)   M=FrameTurb_KA ACBP=A9
+ 0001:0008F300 000004E0 C=CODE     S=.text    G=(none)   M=FrameTurb_NGVS ACBP=A9
+ 0001:0008F7E0 00000610 C=CODE     S=.text    G=(none)   M=FrameTurb_Och4KA ACBP=A9
+ 0001:0008FDF0 00001210 C=CODE     S=.text    G=(none)   M=FrameTurb_Och5KA ACBP=A9
+ 0001:00091000 0000136C C=CODE     S=.text    G=(none)   M=FrameTurb_Och6KA ACBP=A9
+ 0001:0009236C 00001014 C=CODE     S=.text    G=(none)   M=FrameTurb_Och7KA ACBP=A9
+ 0001:00093380 0000048C C=CODE     S=.text    G=(none)   M=FrameTurb_PDU ACBP=A9
+ 0001:0009380C 00001AC8 C=CODE     S=.text    G=(none)   M=FrameGASMET ACBP=A9
+ 0001:000952D4 00000BB8 C=CODE     S=.text    G=(none)   M=FrameTurb_Och6Acoustics ACBP=A9
+ 0001:00095E8C 000015EC C=CODE     S=.text    G=(none)   M=FrameTurb_TA12 ACBP=A9
+ 0001:00097478 000008F4 C=CODE     S=.text    G=(none)   M=FrameTurb_TEP_TA4_9 ACBP=A9
+ 0001:00097D6C 000007A8 C=CODE     S=.text    G=(none)   M=FrameTurb_TEP_TA10_12 ACBP=A9
+ 0001:00098514 000010E0 C=CODE     S=.text    G=(none)   M=FrameTurb_TEP_KA7_15 ACBP=A9
+ 0001:000995F4 00000504 C=CODE     S=.text    G=(none)   M=FrameTurb ACBP=A9
+ 0001:00099AF8 00000A14 C=CODE     S=.text    G=(none)   M=FrameCollectSHA711 ACBP=A9
+ 0001:0009A50C 00000E68 C=CODE     S=.text    G=(none)   M=FrameTeplosetBalans ACBP=A9
+ 0001:0009B374 00000274 C=CODE     S=.text    G=(none)   M=FrameBereg ACBP=A9
+ 0001:0009B5E8 00000570 C=CODE     S=.text    G=(none)   M=FrameGradirnya ACBP=A9
+ 0001:0009BB58 00001794 C=CODE     S=.text    G=(none)   M=FrameAskue ACBP=A9
+ 0001:0009D2EC 000008E8 C=CODE     S=.text    G=(none)   M=FrameUPS ACBP=A9
+ 0001:0009DBD4 00000050 C=CODE     S=.text    G=(none)   M=JConsts  ACBP=A9
+ 0001:0009DC24 000133EC C=CODE     S=.text    G=(none)   M=jpeg     ACBP=A9
+ 0001:000B1010 00000244 C=CODE     S=.text    G=(none)   M=FormAbout ACBP=A9
+ 0001:000B1254 00002190 C=CODE     S=.text    G=(none)   M=FrameOwnNeeds ACBP=A9
+ 0001:000B33E4 000009FC C=CODE     S=.text    G=(none)   M=FrameTeploset ACBP=A9
+ 0001:000B3DE0 00001354 C=CODE     S=.text    G=(none)   M=FrameSummary ACBP=A9
+ 0001:000B5134 0000159C C=CODE     S=.text    G=(none)   M=MyCl     ACBP=A9
+ 0001:000B66D0 00000B54 C=CODE     S=.text    G=(none)   M=OPCutils ACBP=A9
+ 0001:000B7224 000004A0 C=CODE     S=.text    G=(none)   M=MyOPC    ACBP=A9
  0002:00000000 0000009C C=DATA     S=.data    G=DGROUP   M=System   ACBP=A9
  0002:0000009C 00000020 C=DATA     S=.data    G=DGROUP   M=SysInit  ACBP=A9
  0002:000000BC 00000254 C=DATA     S=.data    G=DGROUP   M=SysUtils ACBP=A9
@@ -298,40 +298,40 @@ Detailed map of segments
   Address         Publics by Name
 
  0002:00001DE8       ..
- 0001:000A38FC       ..
- 0001:000A5844       ..
- 0001:000A3354       ..
- 0001:000A5F1C       ..
- 0001:000A2D68       ..
- 0001:000A6FAC       ..
- 0001:000A72A0       ..
+ 0001:000A3958       ..
+ 0001:000A58A0       ..
+ 0001:000A33B0       ..
+ 0001:000A5F78       ..
+ 0001:000A2DC4       ..
+ 0001:000A7008       ..
+ 0001:000A72FC       ..
  0002:00001EF4       ..
- 0001:000A7570       ..
- 0001:000A8AC4       ..
+ 0001:000A75CC       ..
+ 0001:000A8B20       ..
  0002:00001D68       ..
- 0001:000A21DC       ..
+ 0001:000A2238       ..
  0002:00001CE8       ..
- 0001:000A14B4       ..
- 0001:000A0D74       ..
- 0001:000AAA40       ..
- 0001:000AAB50       ..
- 0001:000A08B0       ..
- 0001:000A034C       ..
+ 0001:000A1510       ..
+ 0001:000A0DD0       ..
+ 0001:000AAA9C       ..
+ 0001:000AABAC       ..
+ 0001:000A090C       ..
+ 0001:000A03A8       ..
  0002:000020F4       ..
- 0001:000ABAFC       ..
- 0001:000AC324       ..
- 0001:000ACE54       ..
- 0001:000ACFB0       ..
- 0001:000A4544       ..
- 0001:000AD4EC       ..
- 0001:000ADCF0       ..
- 0001:000AE378       ..
- 0001:000AECA0       ..
+ 0001:000ABB58       ..
+ 0001:000AC380       ..
+ 0001:000ACEB0       ..
+ 0001:000AD00C       ..
+ 0001:000A45A0       ..
+ 0001:000AD548       ..
+ 0001:000ADD4C       ..
+ 0001:000AE3D4       ..
+ 0001:000AECFC       ..
  0002:00002494       ..
- 0001:000AF1B8       ..
- 0001:000B0224       ..
+ 0001:000AF214       ..
+ 0001:000B0280       ..
  0002:00001CD8       ..
- 0001:0009F6E8       ..
+ 0001:0009F744       ..
  0002:00003AC0       .1
  0002:00003DF4       .1
  0002:00003B3C       .1
@@ -507,62 +507,62 @@ Detailed map of segments
  0001:00004C84       @IntfCopy
  0001:00002494       @IsClass
  0001:00002148       @isNECWindows
- 0001:000AA990       @jcopy_block_row
- 0001:000AA944       @jcopy_sample_rows
- 0001:000AA91C       @jdiv_round_up
- 0001:000A44B0       @jinit_1pass_quantizer
- 0001:000A5724       @jinit_2pass_quantizer
- 0001:000AE12C       @jinit_color_converter
- 0001:000A3730       @jinit_color_deconverter
- 0001:000ABA50       @jinit_compress_master
- 0001:000ADC28       @jinit_c_coef_controller
- 0001:000ACF2C       @jinit_c_main_controller
- 0001:000ACD8C       @jinit_c_master_control
- 0001:000AD444       @jinit_c_prep_controller
- 0001:000AEB18       @jinit_downsampler
- 0001:000A6E98       @jinit_d_coef_controller
- 0001:000A5E3C       @jinit_d_main_controller
- 0001:000A720C       @jinit_d_post_controller
- 0001:000AF13C       @jinit_forward_dct
- 0001:000A2D28       @jinit_huff_decoder
- 0001:000B0E80       @jinit_huff_encoder
- 0001:000A0868       @jinit_input_controller
- 0001:000A74F4       @jinit_inverse_dct
- 0001:000AA7C0       @jinit_marker_reader
- 0001:000AC2D0       @jinit_marker_writer
- 0001:000A147C       @jinit_master_decompress
- 0001:000A0214       @jinit_memory_mgr
- 0001:000A32D4       @jinit_merged_upsampler
- 0001:000A2168       @jinit_phuff_decoder
- 0001:000AFC48       @jinit_phuff_encoder
- 0001:000A7A54       @jinit_upsampler
- 0001:000AA9B0       @jpeg_abort
- 0001:000AAA28       @jpeg_alloc_huff_table
- 0001:000AAA10       @jpeg_alloc_quant_table
- 0001:000AFEF8       @jpeg_fdct_float
- 0001:000AFC8C       @jpeg_fdct_ifast
- 0001:000A2610       @jpeg_fill_bit_buffer
- 0001:000A0320       @jpeg_free_large
- 0001:000A0310       @jpeg_free_small
- 0001:000B0BC4       @jpeg_gen_optimal_table
- 0001:000A0318       @jpeg_get_large
- 0001:000A0308       @jpeg_get_small
- 0001:000A275C       @jpeg_huff_decode
- 0001:000A8A88       @jpeg_idct_1x1
- 0001:000A8898       @jpeg_idct_2x2
- 0001:000A84E4       @jpeg_idct_4x4
- 0001:000A7C6C       @jpeg_idct_float
- 0001:000A80B0       @jpeg_idct_ifast
- 0001:000B03B4       @jpeg_make_c_derived_tbl
- 0001:000A2314       @jpeg_make_d_derived_tbl
- 0001:000A0328       @jpeg_mem_available
- 0001:000A0344       @jpeg_mem_init
- 0001:000A0348       @jpeg_mem_term
- 0001:000A0334       @jpeg_open_backing_store
- 0001:000AA68C       @jpeg_resync_to_restart
- 0001:000AB814       @jpeg_suppress_tables
- 0001:000AA92C       @jround_up
- 0001:000AA9A0       @jzero_far
+ 0001:000AA9EC       @jcopy_block_row
+ 0001:000AA9A0       @jcopy_sample_rows
+ 0001:000AA978       @jdiv_round_up
+ 0001:000A450C       @jinit_1pass_quantizer
+ 0001:000A5780       @jinit_2pass_quantizer
+ 0001:000AE188       @jinit_color_converter
+ 0001:000A378C       @jinit_color_deconverter
+ 0001:000ABAAC       @jinit_compress_master
+ 0001:000ADC84       @jinit_c_coef_controller
+ 0001:000ACF88       @jinit_c_main_controller
+ 0001:000ACDE8       @jinit_c_master_control
+ 0001:000AD4A0       @jinit_c_prep_controller
+ 0001:000AEB74       @jinit_downsampler
+ 0001:000A6EF4       @jinit_d_coef_controller
+ 0001:000A5E98       @jinit_d_main_controller
+ 0001:000A7268       @jinit_d_post_controller
+ 0001:000AF198       @jinit_forward_dct
+ 0001:000A2D84       @jinit_huff_decoder
+ 0001:000B0EDC       @jinit_huff_encoder
+ 0001:000A08C4       @jinit_input_controller
+ 0001:000A7550       @jinit_inverse_dct
+ 0001:000AA81C       @jinit_marker_reader
+ 0001:000AC32C       @jinit_marker_writer
+ 0001:000A14D8       @jinit_master_decompress
+ 0001:000A0270       @jinit_memory_mgr
+ 0001:000A3330       @jinit_merged_upsampler
+ 0001:000A21C4       @jinit_phuff_decoder
+ 0001:000AFCA4       @jinit_phuff_encoder
+ 0001:000A7AB0       @jinit_upsampler
+ 0001:000AAA0C       @jpeg_abort
+ 0001:000AAA84       @jpeg_alloc_huff_table
+ 0001:000AAA6C       @jpeg_alloc_quant_table
+ 0001:000AFF54       @jpeg_fdct_float
+ 0001:000AFCE8       @jpeg_fdct_ifast
+ 0001:000A266C       @jpeg_fill_bit_buffer
+ 0001:000A037C       @jpeg_free_large
+ 0001:000A036C       @jpeg_free_small
+ 0001:000B0C20       @jpeg_gen_optimal_table
+ 0001:000A0374       @jpeg_get_large
+ 0001:000A0364       @jpeg_get_small
+ 0001:000A27B8       @jpeg_huff_decode
+ 0001:000A8AE4       @jpeg_idct_1x1
+ 0001:000A88F4       @jpeg_idct_2x2
+ 0001:000A8540       @jpeg_idct_4x4
+ 0001:000A7CC8       @jpeg_idct_float
+ 0001:000A810C       @jpeg_idct_ifast
+ 0001:000B0410       @jpeg_make_c_derived_tbl
+ 0001:000A2370       @jpeg_make_d_derived_tbl
+ 0001:000A0384       @jpeg_mem_available
+ 0001:000A03A0       @jpeg_mem_init
+ 0001:000A03A4       @jpeg_mem_term
+ 0001:000A0390       @jpeg_open_backing_store
+ 0001:000AA6E8       @jpeg_resync_to_restart
+ 0001:000AB870       @jpeg_suppress_tables
+ 0001:000AA988       @jround_up
+ 0001:000AA9FC       @jzero_far
  0001:00003508       @LStrAddRef
  0001:0000307C       @LStrArrayClr
  0001:000030AC       @LStrAsg
@@ -813,9 +813,9 @@ Detailed map of segments
  0002:00000D78       Breaks
  0001:000690A4       BrushFromColor
  0002:000038E4       BrushManager
- 0001:0009E8A0       BuildColorMap
+ 0001:0009E8FC       BuildColorMap
  0001:0005609C       BuildImage
- 0001:0009E7F8       BuildPalette
+ 0001:0009E854       BuildPalette
  0002:00000794       ButtonCaptions
  0002:00000A00       ButtonCount
  0002:00000768       ButtonNames
@@ -835,7 +835,7 @@ Detailed map of segments
  0001:0001DE8C       CalcJmpOffset
  0001:0004D300       CalcSplitterPos
  0002:00002558       Callbacked
- 0001:000B70DC       CallbackOff
+ 0001:000B7154       CallbackOff
  0001:00005B10       CallNextHookEx
  0001:0000CFFC       CallTerminateProcs
  0001:00005B18       CallWindowProc
@@ -940,7 +940,7 @@ Detailed map of segments
  0001:000221F0       ComputeAldusChecksum
  0001:0002E174       ComStrs
  0002:00002554       connected
- 0001:000B7104       ConnectionBroken
+ 0001:000B717C       ConnectionBroken
  0001:0001E460       Consts
  0001:00027868       Contnrs
  0002:00003B56       ControlAtom
@@ -1187,7 +1187,7 @@ Detailed map of segments
  0002:00000DD8       EdgeStyle
  0002:00000CA0       EdgeStyles
  0001:0000BB90       EHeapException.FreeInstance
- 0001:0009DE88       EmitMessage
+ 0001:0009DEE4       EmitMessage
  0002:00000B40       Empty
  0001:00005BF8       EmptyClipboard
  0002:00003800       EmptyParam
@@ -1300,10 +1300,10 @@ Detailed map of segments
  0001:0002E144       Finalization
  0001:0002E17C       Finalization
  0001:00013F48       Finalization
- 0001:000B71AC       Finalization
+ 0001:000B7224       Finalization
  0001:000669C4       Finalization
  0001:00013D3C       Finalization
- 0001:000B7174       Finalization
+ 0001:000B71EC       Finalization
  0001:0000D8CC       Finalization
  0001:0002E210       Finalization
  0001:000658B8       Finalization
@@ -1326,7 +1326,7 @@ Detailed map of segments
  0001:00065530       Finalization
  0001:0002A04C       Finalization
  0001:0006C214       Finalization
- 0001:000B0EC4       Finalization
+ 0001:000B0F20       Finalization
  0001:00036380       Finalization
  0001:00087698       Finalization
  0001:000876D0       Finalization
@@ -1342,41 +1342,41 @@ Detailed map of segments
  0001:000296C8       Finalization
  0001:0008B214       Finalization
  0001:000273A0       Finalization
- 0001:0008BBFC       Finalization
+ 0001:0008BC1C       Finalization
  0001:00027580       Finalization
- 0001:0008C0D0       Finalization
- 0001:0009DB90       Finalization
- 0001:000B65E4       Finalization
- 0001:0009DB40       Finalization
+ 0001:0008C0F0       Finalization
+ 0001:0009DBEC       Finalization
+ 0001:000B665C       Finalization
+ 0001:0009DB9C       Finalization
  0001:0007529C       Finalization
- 0001:0009D258       Finalization
- 0001:0008CECC       Finalization
+ 0001:0009D2B4       Finalization
+ 0001:0008CEEC       Finalization
  0001:0000E288       Finalization
- 0001:000B11C0       Finalization
- 0001:0009BB0C       Finalization
+ 0001:000B121C       Finalization
+ 0001:0009BB20       Finalization
  0001:0006E008       Finalization
- 0001:0008D398       Finalization
+ 0001:0008D3B8       Finalization
  0001:0004F248       Finalization
  0001:0004DF18       Finalization
  0001:00027838       Finalization
- 0001:0009B59C       Finalization
- 0001:0008D8FC       Finalization
- 0001:000B3350       Finalization
+ 0001:0009B5B0       Finalization
+ 0001:0008D91C       Finalization
+ 0001:000B33AC       Finalization
  0001:0006E040       Finalization
- 0001:0008F2B4       Finalization
- 0001:0009B328       Finalization
- 0001:000B5084       Finalization
- 0001:0008F794       Finalization
+ 0001:0008F2C8       Finalization
+ 0001:0009B33C       Finalization
+ 0001:000B50FC       Finalization
+ 0001:0008F7A8       Finalization
  0001:0006E118       Finalization
- 0001:0008FDA4       Finalization
- 0001:0009A4C0       Finalization
- 0001:00090FB4       Finalization
- 0001:000B3D4C       Finalization
- 0001:00092320       Finalization
+ 0001:0008FDB8       Finalization
+ 0001:0009A4D4       Finalization
+ 0001:00090FC8       Finalization
+ 0001:000B3DA8       Finalization
+ 0001:00092334       Finalization
  0001:0006E4D0       Finalization
- 0001:00099AAC       Finalization
+ 0001:00099AC0       Finalization
  0001:000065C0       Finalization
- 0001:000995A8       Finalization
+ 0001:000995BC       Finalization
  0001:000062A0       Finalization
  0001:000291F8       Finalization
  0001:0006E5BC       Finalization
@@ -1385,21 +1385,21 @@ Detailed map of segments
  0001:00070BD8       Finalization
  0001:000291C0       Finalization
  0001:0006FB6C       Finalization
- 0001:00093334       Finalization
- 0001:000984C8       Finalization
+ 0001:00093348       Finalization
+ 0001:000984DC       Finalization
  0001:00029178       Finalization
- 0001:00097D20       Finalization
+ 0001:00097D34       Finalization
  0001:0006ED30       Finalization
  0001:00028190       Finalization
  0001:0006EBCC       Finalization
  0001:00028150       Finalization
  0001:0006EB50       Finalization
- 0001:000937C0       Finalization
+ 0001:000937D4       Finalization
  0001:0006E728       Finalization
  0001:000279D0       Finalization
- 0001:00095288       Finalization
- 0001:0009742C       Finalization
- 0001:00095E40       Finalization
+ 0001:0009529C       Finalization
+ 0001:00097440       Finalization
+ 0001:00095E54       Finalization
  0001:0006E7F0       Finalization
  0001:0002A164       Finalization
  0001:00065A2C       Finalization
@@ -1479,7 +1479,7 @@ Detailed map of segments
  0002:000038DC       FontManager
  0001:0007C1F8       ForcePaints
  0001:00059E88       ForegroundTask
- 0001:000B11F0       FormAbout
+ 0001:000B124C       FormAbout
  0002:00003DA4       FormAbout1
  0001:0000880C       Format
  0002:00000184       Format
@@ -1488,7 +1488,7 @@ Detailed map of segments
  0001:0000838C       FormatError
  0002:00000160       FormatErrorStrs
  0001:00009800       FormatFloat
- 0001:0009DE90       FormatMessage
+ 0001:0009DEEC       FormatMessage
  0001:00005700       FormatMessage
  0001:000083E4       FormatVarToStr
  0001:00064598       Forms
@@ -1497,38 +1497,38 @@ Detailed map of segments
  0001:00001E54       FPower10
  0002:00000734       FPrinter
  0001:0002CA78       Frame3D
- 0001:0009D288       FrameAskue
- 0001:0009B5CC       FrameBereg
+ 0001:0009D2E4       FrameAskue
+ 0001:0009B5E0       FrameBereg
  0001:0008B20C       FrameChemist
  0001:0008B244       FrameChemist2
- 0001:0009A4F0       FrameCollectSHA711
+ 0001:0009A504       FrameCollectSHA711
  0001:0008A778       FrameCollectSPT
- 0001:000952B8       FrameGASMET
- 0001:0009BB3C       FrameGradirnya
- 0001:000B3380       FrameOwnNeeds
+ 0001:000952CC       FrameGASMET
+ 0001:0009BB50       FrameGradirnya
+ 0001:000B33DC       FrameOwnNeeds
  0001:00005C48       FrameRect
- 0001:000B50B4       FrameSummary
- 0001:000B3D7C       FrameTeploset
- 0001:0009B358       FrameTeplosetBalans
- 0001:00099ADC       FrameTurb
- 0001:0008F2E4       FrameTurb_KA
- 0001:0008F7C4       FrameTurb_NGVS
- 0001:0008FDD4       FrameTurb_Och4KA
- 0001:00090FE4       FrameTurb_Och5KA
- 0001:00095E70       FrameTurb_Och6Acoustics
- 0001:00092350       FrameTurb_Och6KA
- 0001:00093364       FrameTurb_Och7KA
- 0001:0008BC2C       FrameTurb_Ochered4
- 0001:0008C100       FrameTurb_Ochered5
- 0001:0008D3C8       FrameTurb_Ochered7
- 0001:000937F0       FrameTurb_PDU
- 0001:0008D92C       FrameTurb_ROU10_13
- 0001:0008CEFC       FrameTurb_TA10
- 0001:0009745C       FrameTurb_TA12
- 0001:000995D8       FrameTurb_TEP_KA7_15
- 0001:000984F8       FrameTurb_TEP_TA10_12
- 0001:00097D50       FrameTurb_TEP_TA4_9
- 0001:0009DB70       FrameUPS
+ 0001:000B512C       FrameSummary
+ 0001:000B3DD8       FrameTeploset
+ 0001:0009B36C       FrameTeplosetBalans
+ 0001:00099AF0       FrameTurb
+ 0001:0008F2F8       FrameTurb_KA
+ 0001:0008F7D8       FrameTurb_NGVS
+ 0001:0008FDE8       FrameTurb_Och4KA
+ 0001:00090FF8       FrameTurb_Och5KA
+ 0001:00095E84       FrameTurb_Och6Acoustics
+ 0001:00092364       FrameTurb_Och6KA
+ 0001:00093378       FrameTurb_Och7KA
+ 0001:0008BC4C       FrameTurb_Ochered4
+ 0001:0008C120       FrameTurb_Ochered5
+ 0001:0008D3E8       FrameTurb_Ochered7
+ 0001:00093804       FrameTurb_PDU
+ 0001:0008D94C       FrameTurb_ROU10_13
+ 0001:0008CF1C       FrameTurb_TA10
+ 0001:00097470       FrameTurb_TA12
+ 0001:000995EC       FrameTurb_TEP_KA7_15
+ 0001:0009850C       FrameTurb_TEP_TA10_12
+ 0001:00097D64       FrameTurb_TEP_TA4_9
+ 0001:0009DBCC       FrameUPS
  0001:0000D4AC       FreeAndNil
  0001:00000998       FreeCommitted
  0001:00000EB8       FreeCurAlloc
@@ -1797,13 +1797,13 @@ Detailed map of segments
  0002:000009FC       GlyphCache
  0001:00027474       Graphics
  0001:00087738       Grids
- 0001:000B6740       GroupAddItem
- 0001:000B69E4       GroupAdviseTime
+ 0001:000B67B8       GroupAddItem
+ 0001:000B6A5C       GroupAdviseTime
  0001:00016C40       GroupDescendentsWith
  0002:00003DC8       GroupHandle
  0002:00003DC4       GroupIf
- 0001:000B6928       GroupRemoveItem
- 0001:000B6B04       GroupUnAdvise
+ 0001:000B69A0       GroupRemoveItem
+ 0001:000B6B7C       GroupUnAdvise
  0002:000003B4       GUID_NULL
  0001:0000ED68       HandleConversionException
  0001:0005F154       HandleEdge
@@ -1896,8 +1896,8 @@ Detailed map of segments
  0001:000170D0       InitComponent
  0002:00003638       InitContext
  0001:0004DD4C       InitControls
- 0001:0009E160       InitDecompressor
- 0001:0009F1B0       InitDefaults
+ 0001:0009E1BC       InitDecompressor
+ 0001:0009F20C       InitDefaults
  0001:00026FF4       InitDefFontData
  0002:000015A8       InitDevice
  0001:0000D038       InitDriveSpacePtr
@@ -1979,7 +1979,7 @@ Detailed map of segments
  0001:000213A0       InvalidMetafile
  0001:00067B14       InvalidOperation
  0001:00021358       InvalidOperation
- 0001:0009DDFC       InvalidOperation
+ 0001:0009DE58       InvalidOperation
  0001:00015FD4       InvalidPoint
  0002:0000379C       InvalidPointer
  0001:0000238C       InvokeImplGetter
@@ -2035,35 +2035,35 @@ Detailed map of segments
  0001:000521CC       Iterate
  0001:0005222C       IterateMenus
  0001:00071C44       IterateMenus
- 0001:0009DBC0       JConsts
+ 0001:0009DC1C       JConsts
  0002:0000002C       JITEnable
- 0001:000B0F04       jpeg
+ 0001:000B0F60       jpeg
  0002:00001C4C       JPEGDefaults
- 0001:0009DE14       JpegError
- 0001:000A0E04       jpeg_calc_output_dimensions
- 0001:0009F524       jpeg_consume_input
- 0001:000AB73C       jpeg_CreateCompress
- 0001:0009F1F0       jpeg_CreateDecompress
- 0001:000AA9F0       jpeg_destroy
- 0001:0009F2C0       jpeg_destroy_decompress
- 0001:000AB85C       jpeg_finish_compress
- 0001:0009F638       jpeg_finish_decompress
- 0001:000A0CEC       jpeg_finish_output
- 0001:0009F604       jpeg_has_multiple_scans
- 0001:0009F4B8       jpeg_read_header
- 0001:000A0B50       jpeg_read_scanlines
- 0001:000AA834       jpeg_save_markers
- 0001:000AAEDC       jpeg_set_colorspace
- 0001:000AAD68       jpeg_set_defaults
- 0001:000AAC6C       jpeg_set_quality
- 0001:000AB344       jpeg_simple_progression
- 0001:000AB55C       jpeg_start_compress
- 0001:000A09C8       jpeg_start_decompress
- 0001:000A0C8C       jpeg_start_output
- 0001:000AAB10       jpeg_stdio_dest
- 0001:000A095C       jpeg_stdio_src
+ 0001:0009DE70       JpegError
+ 0001:000A0E60       jpeg_calc_output_dimensions
+ 0001:0009F580       jpeg_consume_input
+ 0001:000AB798       jpeg_CreateCompress
+ 0001:0009F24C       jpeg_CreateDecompress
+ 0001:000AAA4C       jpeg_destroy
+ 0001:0009F31C       jpeg_destroy_decompress
+ 0001:000AB8B8       jpeg_finish_compress
+ 0001:0009F694       jpeg_finish_decompress
+ 0001:000A0D48       jpeg_finish_output
+ 0001:0009F660       jpeg_has_multiple_scans
+ 0001:0009F514       jpeg_read_header
+ 0001:000A0BAC       jpeg_read_scanlines
+ 0001:000AA890       jpeg_save_markers
+ 0001:000AAF38       jpeg_set_colorspace
+ 0001:000AADC4       jpeg_set_defaults
+ 0001:000AACC8       jpeg_set_quality
+ 0001:000AB3A0       jpeg_simple_progression
+ 0001:000AB5B8       jpeg_start_compress
+ 0001:000A0A24       jpeg_start_decompress
+ 0001:000A0CE8       jpeg_start_output
+ 0001:000AAB6C       jpeg_stdio_dest
+ 0001:000A09B8       jpeg_stdio_src
  0002:00001C54       jpeg_std_error
- 0001:000AB5D0       jpeg_write_scanlines
+ 0001:000AB62C       jpeg_write_scanlines
  0001:00059FC4       KeyboardStateToShiftState
  0001:00059F88       KeyDataToShiftState
  0001:0007A8E0       KeyEvent
@@ -2182,8 +2182,8 @@ Detailed map of segments
  0001:00005840       MultiByteToWideChar
  0001:00063F54       MultiLineWidth
  0001:00028180       MultiMon
- 0001:000B6650       MyCl
- 0001:000B75BC       MyOPC
+ 0001:000B66C8       MyCl
+ 0001:000B7634       MyOPC
  0002:00003C1C       NeedToUninitialize
  0002:00003689       NegCurrFormat
  0001:00000F90       NewCommit
@@ -2233,7 +2233,7 @@ Detailed map of segments
  0002:00003C28       OPCSTMFORMATDATATIME
  0002:00003C2C       OPCSTMFORMATWRITECOMPLETE
  0001:00065638       OPCtypes
- 0001:000B71A4       OPCutils
+ 0001:000B721C       OPCutils
  0001:00005E88       OpenClipboard
  0002:00003984       OpenThemeData
  0002:00000CC4       OrientArray
@@ -2241,7 +2241,7 @@ Detailed map of segments
  0002:00003798       OutOfMemory
  0001:000213AC       OutOfResources
  0002:0000321C       Output
- 0001:0009DE8C       OutputMessage
+ 0001:0009DEE8       OutputMessage
  0002:00000320       PackVarCreation
  0001:0007AE2C       PaintControls
  0001:0007AEDC       PaintEvent
@@ -2283,7 +2283,7 @@ Detailed map of segments
  0001:000600F4       ProcessUpdate
  0001:0005A2AC       ProcessVert
  0001:000805F8       ProcessVert
- 0001:0009E048       ProgressCallback
+ 0001:0009E0A4       ProgressCallback
  0001:0001A17C       PropertyNotFound
  0001:0001B3E4       PropPathError
  0002:00000E28       Props
@@ -2716,7 +2716,7 @@ Detailed map of segments
  0001:0006DA94       ReadImages
  0001:0006D9D4       ReadOldImages
  0002:00000B1C       ReadOnlys
- 0001:000B6C10       ReadOPC
+ 0001:000B6C88       ReadOPC
  0001:00005A48       RealizePalette
  0001:0001A998       Recover
  0001:00015F84       Rect
@@ -2745,7 +2745,7 @@ Detailed map of segments
  0001:000002E4       RegQueryValueEx
  0001:0002A194       RegStr
  0001:00005ED0       ReleaseCapture
- 0001:0009E13C       ReleaseContext
+ 0001:0009E198       ReleaseContext
  0001:00005ED8       ReleaseDC
  0001:00076E60       ReleaseMouseGrab
  0002:00000048       reMap
@@ -2759,7 +2759,7 @@ Detailed map of segments
  0001:00004B08       RemoveModuleUnloadProc
  0001:00004B30       RemoveModuleUnloadProc
  0001:00005EE8       RemoveProp
- 0001:0009DE94       ResetErrorMgr
+ 0001:0009DEF0       ResetErrorMgr
  0001:00005850       ResetEvent
  0001:0001CC3C       ResetSyncEvent
  0001:0006F954       ResetSystemStyle
@@ -2823,7 +2823,7 @@ Detailed map of segments
  0001:00059E48       SendFocusMessage
  0001:00005F00       SendMessage
  0002:00000D84       Separators
- 0001:000B6658       ServerAddGroup
+ 0001:000B66D0       ServerAddGroup
  0002:00003DC0       ServerIf
  0001:00001AD8       Set8087CW
  0001:00005F08       SetActiveWindow
@@ -2831,7 +2831,7 @@ Detailed map of segments
  0001:00005A80       SetBkColor
  0001:00005A88       SetBkMode
  0001:00005A90       SetBrushOrgEx
- 0001:000B6FB8       SetCallback
+ 0001:000B7030       SetCallback
  0001:00005F10       SetCapture
  0001:00076EC0       SetCaptureControl
  0001:0003F938       SetCaptureControl
@@ -4765,9 +4765,9 @@ Detailed map of segments
  0001:000204A4       TFont.SetStyle
  0001:00068AA0       TFont.SetStyle
  0001:00068B34       TFont.SetWeight
- 0001:000B3D00       TfraBalans.pcTeploChange
- 0001:000B3634       TfraBalans.TimerBalansTimer
- 0001:000945BC       TfraGASMET.tmrSetColorASPKTimer
+ 0001:000B3D5C       TfraBalans.pcTeploChange
+ 0001:000B3690       TfraBalans.TimerBalansTimer
+ 0001:000945D0       TfraGASMET.tmrSetColorASPKTimer
  0001:0007DABC       TFrameControl.BorderStyleChanged
  0001:0007DAC0       TFrameControl.Create
  0001:0007DB0C       TFrameControl.CreateWidget
@@ -4781,27 +4781,27 @@ Detailed map of segments
  0001:0007DC78       TFrameControl.SetBorderStyle
  0001:0007DC28       TFrameControl.SetLineWidth
  0001:0007DC50       TFrameControl.SetMidLineWidth
- 0001:000B1CE4       TfraOwnNeeds.FrameEnter
- 0001:000B1D24       TfraOwnNeeds.TimerOwnNeedsTimer
- 0001:000B4E44       TfraSummary.FrameEnter
- 0001:000B4E84       TfraSummary.TimerSummaryPPTimer
- 0001:00099A04       TfraTurb.pcTurbChange
- 0001:0008E490       TfraTurb_KA.tmrKATimer
- 0001:0009D724       TfraUPS.tmrSetColorUPSTimer
- 0001:000B65D4       TfrmOPClient.bbAboutClick
- 0001:000B5DDC       TfrmOPClient.Check1Click
- 0001:000B5E0C       TfrmOPClient.CheckBox1Click
- 0001:000B55F0       TfrmOPClient.Connect
- 0001:000B56BC       TfrmOPClient.Disconnect
- 0001:000B5B0C       TfrmOPClient.FormCreate
- 0001:000B5A50       TfrmOPClient.FormDestroy
- 0001:000B63B8       TfrmOPClient.fraBalans1pcTeploChange
- 0001:000B616C       TfrmOPClient.fraTurb1pcTurbChange
- 0001:000B5E38       TfrmOPClient.PageControlChange
- 0001:000B6148       TfrmOPClient.seTimerChange
- 0001:000B5DC0       TfrmOPClient.Time
- 0001:000B5DFC       TfrmOPClient.Timer1Timer
- 0001:000B65D0       TfrmOPClient.TimerBalansTimer
+ 0001:000B1D40       TfraOwnNeeds.FrameEnter
+ 0001:000B1D80       TfraOwnNeeds.TimerOwnNeedsTimer
+ 0001:000B4EBC       TfraSummary.FrameEnter
+ 0001:000B4EFC       TfraSummary.TimerSummaryPPTimer
+ 0001:00099A18       TfraTurb.pcTurbChange
+ 0001:0008E4A4       TfraTurb_KA.tmrKATimer
+ 0001:0009D780       TfraUPS.tmrSetColorUPSTimer
+ 0001:000B664C       TfrmOPClient.bbAboutClick
+ 0001:000B5E54       TfrmOPClient.Check1Click
+ 0001:000B5E84       TfrmOPClient.CheckBox1Click
+ 0001:000B5668       TfrmOPClient.Connect
+ 0001:000B5734       TfrmOPClient.Disconnect
+ 0001:000B5B84       TfrmOPClient.FormCreate
+ 0001:000B5AC8       TfrmOPClient.FormDestroy
+ 0001:000B6430       TfrmOPClient.fraBalans1pcTeploChange
+ 0001:000B61E4       TfrmOPClient.fraTurb1pcTurbChange
+ 0001:000B5EB0       TfrmOPClient.PageControlChange
+ 0001:000B61C0       TfrmOPClient.seTimerChange
+ 0001:000B5E38       TfrmOPClient.Time
+ 0001:000B5E74       TfrmOPClient.Timer1Timer
+ 0001:000B6648       TfrmOPClient.TimerBalansTimer
  0001:0002F1F8       TGlyphCache.Create
  0001:0002F23C       TGlyphCache.Destroy
  0001:0002F2F0       TGlyphCache.Empty
@@ -4992,36 +4992,36 @@ Detailed map of segments
  0001:00017BFC       TInterfacedPersistent._AddRef
  0001:00017C1C       TInterfacedPersistent._Release
  0002:00001404       Titles
- 0001:0009DEA4       TJPEGData.Destroy
- 0001:0009DED4       TJPEGData.FreeHandle
- 0001:0009DF90       TJPEGImage.Assign
- 0001:0009E010       TJPEGImage.AssignTo
- 0001:0009E36C       TJPEGImage.CalcOutputDimensions
- 0001:0009E3F8       TJPEGImage.Changed
- 0001:0009E400       TJPEGImage.Compress
- 0001:0009DED8       TJPEGImage.Create
- 0001:0009DF4C       TJPEGImage.Destroy
- 0001:0009E77C       TJPEGImage.Draw
- 0001:0009E79C       TJPEGImage.Equals
- 0001:0009E7E4       TJPEGImage.FreeBitmap
- 0001:0009E928       TJPEGImage.GetBitmap
- 0001:0009ED34       TJPEGImage.GetEmpty
- 0001:0009EDC8       TJPEGImage.GetHeight
- 0001:0009ED60       TJPEGImage.GetPalette
- 0001:0009EDF4       TJPEGImage.GetWidth
- 0001:0009EE20       TJPEGImage.JPEGNeeded
- 0001:0009EE30       TJPEGImage.LoadFromClipboardFormat
- 0001:0009EE50       TJPEGImage.LoadFromStream
- 0001:0009EE74       TJPEGImage.NewBitmap
- 0001:0009EE90       TJPEGImage.NewImage
- 0001:0009EEBC       TJPEGImage.ReadData
- 0001:0009EEE4       TJPEGImage.ReadStream
- 0001:0009F028       TJPEGImage.SaveToClipboardFormat
- 0001:0009F054       TJPEGImage.SaveToStream
- 0001:0009F07C       TJPEGImage.SetHeight
- 0001:0009F0C4       TJPEGImage.SetPalette
- 0001:0009F11C       TJPEGImage.SetWidth
- 0001:0009F164       TJPEGImage.WriteData
+ 0001:0009DF00       TJPEGData.Destroy
+ 0001:0009DF30       TJPEGData.FreeHandle
+ 0001:0009DFEC       TJPEGImage.Assign
+ 0001:0009E06C       TJPEGImage.AssignTo
+ 0001:0009E3C8       TJPEGImage.CalcOutputDimensions
+ 0001:0009E454       TJPEGImage.Changed
+ 0001:0009E45C       TJPEGImage.Compress
+ 0001:0009DF34       TJPEGImage.Create
+ 0001:0009DFA8       TJPEGImage.Destroy
+ 0001:0009E7D8       TJPEGImage.Draw
+ 0001:0009E7F8       TJPEGImage.Equals
+ 0001:0009E840       TJPEGImage.FreeBitmap
+ 0001:0009E984       TJPEGImage.GetBitmap
+ 0001:0009ED90       TJPEGImage.GetEmpty
+ 0001:0009EE24       TJPEGImage.GetHeight
+ 0001:0009EDBC       TJPEGImage.GetPalette
+ 0001:0009EE50       TJPEGImage.GetWidth
+ 0001:0009EE7C       TJPEGImage.JPEGNeeded
+ 0001:0009EE8C       TJPEGImage.LoadFromClipboardFormat
+ 0001:0009EEAC       TJPEGImage.LoadFromStream
+ 0001:0009EED0       TJPEGImage.NewBitmap
+ 0001:0009EEEC       TJPEGImage.NewImage
+ 0001:0009EF18       TJPEGImage.ReadData
+ 0001:0009EF40       TJPEGImage.ReadStream
+ 0001:0009F084       TJPEGImage.SaveToClipboardFormat
+ 0001:0009F0B0       TJPEGImage.SaveToStream
+ 0001:0009F0D8       TJPEGImage.SetHeight
+ 0001:0009F120       TJPEGImage.SetPalette
+ 0001:0009F178       TJPEGImage.SetWidth
+ 0001:0009F1C0       TJPEGImage.WriteData
  0001:0001725C       TList.Add
  0001:00017290       TList.Clear
  0001:000172A8       TList.Delete
@@ -5441,11 +5441,11 @@ Detailed map of segments
  0001:00027740       TObjectList.Notify
  0001:000046D8       ToLongPath
  0001:0002A124       ToolWin
- 0001:000B5A48       TOPCAdviseSink.OnClose
- 0001:000B577C       TOPCAdviseSink.OnDataChange
- 0001:000B5A38       TOPCAdviseSink.OnRename
- 0001:000B5A40       TOPCAdviseSink.OnSave
- 0001:000B5A30       TOPCAdviseSink.OnViewChange
+ 0001:000B5AC0       TOPCAdviseSink.OnClose
+ 0001:000B57F4       TOPCAdviseSink.OnDataChange
+ 0001:000B5AB0       TOPCAdviseSink.OnRename
+ 0001:000B5AB8       TOPCAdviseSink.OnSave
+ 0001:000B5AA8       TOPCAdviseSink.OnViewChange
  0001:00027784       TOrderedList.Create
  0001:000277C8       TOrderedList.Destroy
  0001:000277F8       TOrderedList.PeekItem
@@ -6730,12 +6730,12 @@ Detailed map of segments
  0001:00027B78       xMonitorFromRect
  0001:00027C08       xMonitorFromWindow
  0001:000060B8       _CreateWindowEx
- 0001:0009DD88       _fflush
+ 0001:0009DDE4       _fflush
  0002:00003970       _FlatSB_GetScrollProp
  0002:00003974       _FlatSB_SetScrollProp
- 0001:0009DD50       _fread
- 0001:0009DD14       _free
- 0001:0009DD6C       _fwrite
+ 0001:0009DDAC       _fread
+ 0001:0009DD70       _free
+ 0001:0009DDC8       _fwrite
  0001:00027AF0       _GetSystemMetrics
  0002:00003BBC       _ImmGetCompositionString
  0002:00003BA0       _ImmGetContext
@@ -6750,12 +6750,12 @@ Detailed map of segments
  0002:00003900       _InitCommonControlsEx
  0002:00003978       _InitializeFlatSB
  0002:00001FB4       _jpeg_natural_order
- 0001:0009DD04       _malloc
- 0001:0009DD3C       _memcpy
- 0001:0009DD24       _memset
+ 0001:0009DD60       _malloc
+ 0001:0009DD98       _memcpy
+ 0001:0009DD80       _memset
  0002:0000397C       _UninitializeFlatSB
  0002:00003B9C       _WINNLSEnableIME
- 0001:0009DD90       __ftol
+ 0001:0009DDEC       __ftol
 
 
   Address         Publics by Value
@@ -12246,269 +12246,269 @@ Detailed map of segments
  0001:0008B20C       FrameChemist
  0001:0008B214       Finalization
  0001:0008B244       FrameChemist2
- 0001:0008BBFC       Finalization
- 0001:0008BC2C       FrameTurb_Ochered4
- 0001:0008C0D0       Finalization
- 0001:0008C100       FrameTurb_Ochered5
- 0001:0008CECC       Finalization
- 0001:0008CEFC       FrameTurb_TA10
- 0001:0008D398       Finalization
- 0001:0008D3C8       FrameTurb_Ochered7
- 0001:0008D8FC       Finalization
- 0001:0008D92C       FrameTurb_ROU10_13
- 0001:0008E490       TfraTurb_KA.tmrKATimer
- 0001:0008F2B4       Finalization
- 0001:0008F2E4       FrameTurb_KA
- 0001:0008F794       Finalization
- 0001:0008F7C4       FrameTurb_NGVS
- 0001:0008FDA4       Finalization
- 0001:0008FDD4       FrameTurb_Och4KA
- 0001:00090FB4       Finalization
- 0001:00090FE4       FrameTurb_Och5KA
- 0001:00092320       Finalization
- 0001:00092350       FrameTurb_Och6KA
- 0001:00093334       Finalization
- 0001:00093364       FrameTurb_Och7KA
- 0001:000937C0       Finalization
- 0001:000937F0       FrameTurb_PDU
- 0001:000945BC       TfraGASMET.tmrSetColorASPKTimer
- 0001:00095288       Finalization
- 0001:000952B8       FrameGASMET
- 0001:00095E40       Finalization
- 0001:00095E70       FrameTurb_Och6Acoustics
- 0001:0009742C       Finalization
- 0001:0009745C       FrameTurb_TA12
- 0001:00097D20       Finalization
- 0001:00097D50       FrameTurb_TEP_TA4_9
- 0001:000984C8       Finalization
- 0001:000984F8       FrameTurb_TEP_TA10_12
- 0001:000995A8       Finalization
- 0001:000995D8       FrameTurb_TEP_KA7_15
- 0001:00099A04       TfraTurb.pcTurbChange
- 0001:00099AAC       Finalization
- 0001:00099ADC       FrameTurb
- 0001:0009A4C0       Finalization
- 0001:0009A4F0       FrameCollectSHA711
- 0001:0009B328       Finalization
- 0001:0009B358       FrameTeplosetBalans
- 0001:0009B59C       Finalization
- 0001:0009B5CC       FrameBereg
- 0001:0009BB0C       Finalization
- 0001:0009BB3C       FrameGradirnya
- 0001:0009D258       Finalization
- 0001:0009D288       FrameAskue
- 0001:0009D724       TfraUPS.tmrSetColorUPSTimer
- 0001:0009DB40       Finalization
- 0001:0009DB70       FrameUPS
- 0001:0009DB90       Finalization
- 0001:0009DBC0       JConsts
- 0001:0009DD04       _malloc
- 0001:0009DD14       _free
- 0001:0009DD24       _memset
- 0001:0009DD3C       _memcpy
- 0001:0009DD50       _fread
- 0001:0009DD6C       _fwrite
- 0001:0009DD88       _fflush
- 0001:0009DD90       __ftol
- 0001:0009DDFC       InvalidOperation
- 0001:0009DE14       JpegError
- 0001:0009DE88       EmitMessage
- 0001:0009DE8C       OutputMessage
- 0001:0009DE90       FormatMessage
- 0001:0009DE94       ResetErrorMgr
- 0001:0009DEA4       TJPEGData.Destroy
- 0001:0009DED4       TJPEGData.FreeHandle
- 0001:0009DED8       TJPEGImage.Create
- 0001:0009DF4C       TJPEGImage.Destroy
- 0001:0009DF90       TJPEGImage.Assign
- 0001:0009E010       TJPEGImage.AssignTo
- 0001:0009E048       ProgressCallback
- 0001:0009E13C       ReleaseContext
- 0001:0009E160       InitDecompressor
- 0001:0009E36C       TJPEGImage.CalcOutputDimensions
- 0001:0009E3F8       TJPEGImage.Changed
- 0001:0009E400       TJPEGImage.Compress
- 0001:0009E77C       TJPEGImage.Draw
- 0001:0009E79C       TJPEGImage.Equals
- 0001:0009E7E4       TJPEGImage.FreeBitmap
- 0001:0009E7F8       BuildPalette
- 0001:0009E8A0       BuildColorMap
- 0001:0009E928       TJPEGImage.GetBitmap
- 0001:0009ED34       TJPEGImage.GetEmpty
- 0001:0009ED60       TJPEGImage.GetPalette
- 0001:0009EDC8       TJPEGImage.GetHeight
- 0001:0009EDF4       TJPEGImage.GetWidth
- 0001:0009EE20       TJPEGImage.JPEGNeeded
- 0001:0009EE30       TJPEGImage.LoadFromClipboardFormat
- 0001:0009EE50       TJPEGImage.LoadFromStream
- 0001:0009EE74       TJPEGImage.NewBitmap
- 0001:0009EE90       TJPEGImage.NewImage
- 0001:0009EEBC       TJPEGImage.ReadData
- 0001:0009EEE4       TJPEGImage.ReadStream
- 0001:0009F028       TJPEGImage.SaveToClipboardFormat
- 0001:0009F054       TJPEGImage.SaveToStream
- 0001:0009F07C       TJPEGImage.SetHeight
- 0001:0009F0C4       TJPEGImage.SetPalette
- 0001:0009F11C       TJPEGImage.SetWidth
- 0001:0009F164       TJPEGImage.WriteData
- 0001:0009F1B0       InitDefaults
- 0001:0009F1F0       jpeg_CreateDecompress
- 0001:0009F2C0       jpeg_destroy_decompress
- 0001:0009F4B8       jpeg_read_header
- 0001:0009F524       jpeg_consume_input
- 0001:0009F604       jpeg_has_multiple_scans
- 0001:0009F638       jpeg_finish_decompress
- 0001:0009F6E8       ..
- 0001:000A0214       @jinit_memory_mgr
- 0001:000A0308       @jpeg_get_small
- 0001:000A0310       @jpeg_free_small
- 0001:000A0318       @jpeg_get_large
- 0001:000A0320       @jpeg_free_large
- 0001:000A0328       @jpeg_mem_available
- 0001:000A0334       @jpeg_open_backing_store
- 0001:000A0344       @jpeg_mem_init
- 0001:000A0348       @jpeg_mem_term
- 0001:000A034C       ..
- 0001:000A0868       @jinit_input_controller
- 0001:000A08B0       ..
- 0001:000A095C       jpeg_stdio_src
- 0001:000A09C8       jpeg_start_decompress
- 0001:000A0B50       jpeg_read_scanlines
- 0001:000A0C8C       jpeg_start_output
- 0001:000A0CEC       jpeg_finish_output
- 0001:000A0D74       ..
- 0001:000A0E04       jpeg_calc_output_dimensions
- 0001:000A147C       @jinit_master_decompress
- 0001:000A14B4       ..
- 0001:000A2168       @jinit_phuff_decoder
- 0001:000A21DC       ..
- 0001:000A2314       @jpeg_make_d_derived_tbl
- 0001:000A2610       @jpeg_fill_bit_buffer
- 0001:000A275C       @jpeg_huff_decode
- 0001:000A2D28       @jinit_huff_decoder
- 0001:000A2D68       ..
- 0001:000A32D4       @jinit_merged_upsampler
- 0001:000A3354       ..
- 0001:000A3730       @jinit_color_deconverter
- 0001:000A38FC       ..
- 0001:000A44B0       @jinit_1pass_quantizer
- 0001:000A4544       ..
- 0001:000A5724       @jinit_2pass_quantizer
- 0001:000A5844       ..
- 0001:000A5E3C       @jinit_d_main_controller
- 0001:000A5F1C       ..
- 0001:000A6E98       @jinit_d_coef_controller
- 0001:000A6FAC       ..
- 0001:000A720C       @jinit_d_post_controller
- 0001:000A72A0       ..
- 0001:000A74F4       @jinit_inverse_dct
- 0001:000A7570       ..
- 0001:000A7A54       @jinit_upsampler
- 0001:000A7C6C       @jpeg_idct_float
- 0001:000A80B0       @jpeg_idct_ifast
- 0001:000A84E4       @jpeg_idct_4x4
- 0001:000A8898       @jpeg_idct_2x2
- 0001:000A8A88       @jpeg_idct_1x1
- 0001:000A8AC4       ..
- 0001:000AA68C       @jpeg_resync_to_restart
- 0001:000AA7C0       @jinit_marker_reader
- 0001:000AA834       jpeg_save_markers
- 0001:000AA91C       @jdiv_round_up
- 0001:000AA92C       @jround_up
- 0001:000AA944       @jcopy_sample_rows
- 0001:000AA990       @jcopy_block_row
- 0001:000AA9A0       @jzero_far
- 0001:000AA9B0       @jpeg_abort
- 0001:000AA9F0       jpeg_destroy
- 0001:000AAA10       @jpeg_alloc_quant_table
- 0001:000AAA28       @jpeg_alloc_huff_table
- 0001:000AAA40       ..
- 0001:000AAB10       jpeg_stdio_dest
- 0001:000AAB50       ..
- 0001:000AAC6C       jpeg_set_quality
- 0001:000AAD68       jpeg_set_defaults
- 0001:000AAEDC       jpeg_set_colorspace
- 0001:000AB344       jpeg_simple_progression
- 0001:000AB55C       jpeg_start_compress
- 0001:000AB5D0       jpeg_write_scanlines
- 0001:000AB73C       jpeg_CreateCompress
- 0001:000AB814       @jpeg_suppress_tables
- 0001:000AB85C       jpeg_finish_compress
- 0001:000ABA50       @jinit_compress_master
- 0001:000ABAFC       ..
- 0001:000AC2D0       @jinit_marker_writer
- 0001:000AC324       ..
- 0001:000ACD8C       @jinit_c_master_control
- 0001:000ACE54       ..
- 0001:000ACF2C       @jinit_c_main_controller
- 0001:000ACFB0       ..
- 0001:000AD444       @jinit_c_prep_controller
- 0001:000AD4EC       ..
- 0001:000ADC28       @jinit_c_coef_controller
- 0001:000ADCF0       ..
- 0001:000AE12C       @jinit_color_converter
- 0001:000AE378       ..
- 0001:000AEB18       @jinit_downsampler
- 0001:000AECA0       ..
- 0001:000AF13C       @jinit_forward_dct
- 0001:000AF1B8       ..
- 0001:000AFC48       @jinit_phuff_encoder
- 0001:000AFC8C       @jpeg_fdct_ifast
- 0001:000AFEF8       @jpeg_fdct_float
- 0001:000B0224       ..
- 0001:000B03B4       @jpeg_make_c_derived_tbl
- 0001:000B0BC4       @jpeg_gen_optimal_table
- 0001:000B0E80       @jinit_huff_encoder
- 0001:000B0EC4       Finalization
- 0001:000B0F04       jpeg
- 0001:000B11C0       Finalization
- 0001:000B11F0       FormAbout
- 0001:000B1CE4       TfraOwnNeeds.FrameEnter
- 0001:000B1D24       TfraOwnNeeds.TimerOwnNeedsTimer
- 0001:000B3350       Finalization
- 0001:000B3380       FrameOwnNeeds
- 0001:000B3634       TfraBalans.TimerBalansTimer
- 0001:000B3D00       TfraBalans.pcTeploChange
- 0001:000B3D4C       Finalization
- 0001:000B3D7C       FrameTeploset
- 0001:000B4E44       TfraSummary.FrameEnter
- 0001:000B4E84       TfraSummary.TimerSummaryPPTimer
- 0001:000B5084       Finalization
- 0001:000B50B4       FrameSummary
- 0001:000B55F0       TfrmOPClient.Connect
- 0001:000B56BC       TfrmOPClient.Disconnect
- 0001:000B577C       TOPCAdviseSink.OnDataChange
- 0001:000B5A30       TOPCAdviseSink.OnViewChange
- 0001:000B5A38       TOPCAdviseSink.OnRename
- 0001:000B5A40       TOPCAdviseSink.OnSave
- 0001:000B5A48       TOPCAdviseSink.OnClose
- 0001:000B5A50       TfrmOPClient.FormDestroy
- 0001:000B5B0C       TfrmOPClient.FormCreate
- 0001:000B5DC0       TfrmOPClient.Time
- 0001:000B5DDC       TfrmOPClient.Check1Click
- 0001:000B5DFC       TfrmOPClient.Timer1Timer
- 0001:000B5E0C       TfrmOPClient.CheckBox1Click
- 0001:000B5E38       TfrmOPClient.PageControlChange
- 0001:000B6148       TfrmOPClient.seTimerChange
- 0001:000B616C       TfrmOPClient.fraTurb1pcTurbChange
- 0001:000B63B8       TfrmOPClient.fraBalans1pcTeploChange
- 0001:000B65D0       TfrmOPClient.TimerBalansTimer
- 0001:000B65D4       TfrmOPClient.bbAboutClick
- 0001:000B65E4       Finalization
- 0001:000B6650       MyCl
- 0001:000B6658       ServerAddGroup
- 0001:000B6740       GroupAddItem
- 0001:000B6928       GroupRemoveItem
- 0001:000B69E4       GroupAdviseTime
- 0001:000B6B04       GroupUnAdvise
- 0001:000B6C10       ReadOPC
- 0001:000B6FB8       SetCallback
- 0001:000B70DC       CallbackOff
- 0001:000B7104       ConnectionBroken
- 0001:000B7174       Finalization
- 0001:000B71A4       OPCutils
- 0001:000B71AC       Finalization
- 0001:000B75BC       MyOPC
+ 0001:0008BC1C       Finalization
+ 0001:0008BC4C       FrameTurb_Ochered4
+ 0001:0008C0F0       Finalization
+ 0001:0008C120       FrameTurb_Ochered5
+ 0001:0008CEEC       Finalization
+ 0001:0008CF1C       FrameTurb_TA10
+ 0001:0008D3B8       Finalization
+ 0001:0008D3E8       FrameTurb_Ochered7
+ 0001:0008D91C       Finalization
+ 0001:0008D94C       FrameTurb_ROU10_13
+ 0001:0008E4A4       TfraTurb_KA.tmrKATimer
+ 0001:0008F2C8       Finalization
+ 0001:0008F2F8       FrameTurb_KA
+ 0001:0008F7A8       Finalization
+ 0001:0008F7D8       FrameTurb_NGVS
+ 0001:0008FDB8       Finalization
+ 0001:0008FDE8       FrameTurb_Och4KA
+ 0001:00090FC8       Finalization
+ 0001:00090FF8       FrameTurb_Och5KA
+ 0001:00092334       Finalization
+ 0001:00092364       FrameTurb_Och6KA
+ 0001:00093348       Finalization
+ 0001:00093378       FrameTurb_Och7KA
+ 0001:000937D4       Finalization
+ 0001:00093804       FrameTurb_PDU
+ 0001:000945D0       TfraGASMET.tmrSetColorASPKTimer
+ 0001:0009529C       Finalization
+ 0001:000952CC       FrameGASMET
+ 0001:00095E54       Finalization
+ 0001:00095E84       FrameTurb_Och6Acoustics
+ 0001:00097440       Finalization
+ 0001:00097470       FrameTurb_TA12
+ 0001:00097D34       Finalization
+ 0001:00097D64       FrameTurb_TEP_TA4_9
+ 0001:000984DC       Finalization
+ 0001:0009850C       FrameTurb_TEP_TA10_12
+ 0001:000995BC       Finalization
+ 0001:000995EC       FrameTurb_TEP_KA7_15
+ 0001:00099A18       TfraTurb.pcTurbChange
+ 0001:00099AC0       Finalization
+ 0001:00099AF0       FrameTurb
+ 0001:0009A4D4       Finalization
+ 0001:0009A504       FrameCollectSHA711
+ 0001:0009B33C       Finalization
+ 0001:0009B36C       FrameTeplosetBalans
+ 0001:0009B5B0       Finalization
+ 0001:0009B5E0       FrameBereg
+ 0001:0009BB20       Finalization
+ 0001:0009BB50       FrameGradirnya
+ 0001:0009D2B4       Finalization
+ 0001:0009D2E4       FrameAskue
+ 0001:0009D780       TfraUPS.tmrSetColorUPSTimer
+ 0001:0009DB9C       Finalization
+ 0001:0009DBCC       FrameUPS
+ 0001:0009DBEC       Finalization
+ 0001:0009DC1C       JConsts
+ 0001:0009DD60       _malloc
+ 0001:0009DD70       _free
+ 0001:0009DD80       _memset
+ 0001:0009DD98       _memcpy
+ 0001:0009DDAC       _fread
+ 0001:0009DDC8       _fwrite
+ 0001:0009DDE4       _fflush
+ 0001:0009DDEC       __ftol
+ 0001:0009DE58       InvalidOperation
+ 0001:0009DE70       JpegError
+ 0001:0009DEE4       EmitMessage
+ 0001:0009DEE8       OutputMessage
+ 0001:0009DEEC       FormatMessage
+ 0001:0009DEF0       ResetErrorMgr
+ 0001:0009DF00       TJPEGData.Destroy
+ 0001:0009DF30       TJPEGData.FreeHandle
+ 0001:0009DF34       TJPEGImage.Create
+ 0001:0009DFA8       TJPEGImage.Destroy
+ 0001:0009DFEC       TJPEGImage.Assign
+ 0001:0009E06C       TJPEGImage.AssignTo
+ 0001:0009E0A4       ProgressCallback
+ 0001:0009E198       ReleaseContext
+ 0001:0009E1BC       InitDecompressor
+ 0001:0009E3C8       TJPEGImage.CalcOutputDimensions
+ 0001:0009E454       TJPEGImage.Changed
+ 0001:0009E45C       TJPEGImage.Compress
+ 0001:0009E7D8       TJPEGImage.Draw
+ 0001:0009E7F8       TJPEGImage.Equals
+ 0001:0009E840       TJPEGImage.FreeBitmap
+ 0001:0009E854       BuildPalette
+ 0001:0009E8FC       BuildColorMap
+ 0001:0009E984       TJPEGImage.GetBitmap
+ 0001:0009ED90       TJPEGImage.GetEmpty
+ 0001:0009EDBC       TJPEGImage.GetPalette
+ 0001:0009EE24       TJPEGImage.GetHeight
+ 0001:0009EE50       TJPEGImage.GetWidth
+ 0001:0009EE7C       TJPEGImage.JPEGNeeded
+ 0001:0009EE8C       TJPEGImage.LoadFromClipboardFormat
+ 0001:0009EEAC       TJPEGImage.LoadFromStream
+ 0001:0009EED0       TJPEGImage.NewBitmap
+ 0001:0009EEEC       TJPEGImage.NewImage
+ 0001:0009EF18       TJPEGImage.ReadData
+ 0001:0009EF40       TJPEGImage.ReadStream
+ 0001:0009F084       TJPEGImage.SaveToClipboardFormat
+ 0001:0009F0B0       TJPEGImage.SaveToStream
+ 0001:0009F0D8       TJPEGImage.SetHeight
+ 0001:0009F120       TJPEGImage.SetPalette
+ 0001:0009F178       TJPEGImage.SetWidth
+ 0001:0009F1C0       TJPEGImage.WriteData
+ 0001:0009F20C       InitDefaults
+ 0001:0009F24C       jpeg_CreateDecompress
+ 0001:0009F31C       jpeg_destroy_decompress
+ 0001:0009F514       jpeg_read_header
+ 0001:0009F580       jpeg_consume_input
+ 0001:0009F660       jpeg_has_multiple_scans
+ 0001:0009F694       jpeg_finish_decompress
+ 0001:0009F744       ..
+ 0001:000A0270       @jinit_memory_mgr
+ 0001:000A0364       @jpeg_get_small
+ 0001:000A036C       @jpeg_free_small
+ 0001:000A0374       @jpeg_get_large
+ 0001:000A037C       @jpeg_free_large
+ 0001:000A0384       @jpeg_mem_available
+ 0001:000A0390       @jpeg_open_backing_store
+ 0001:000A03A0       @jpeg_mem_init
+ 0001:000A03A4       @jpeg_mem_term
+ 0001:000A03A8       ..
+ 0001:000A08C4       @jinit_input_controller
+ 0001:000A090C       ..
+ 0001:000A09B8       jpeg_stdio_src
+ 0001:000A0A24       jpeg_start_decompress
+ 0001:000A0BAC       jpeg_read_scanlines
+ 0001:000A0CE8       jpeg_start_output
+ 0001:000A0D48       jpeg_finish_output
+ 0001:000A0DD0       ..
+ 0001:000A0E60       jpeg_calc_output_dimensions
+ 0001:000A14D8       @jinit_master_decompress
+ 0001:000A1510       ..
+ 0001:000A21C4       @jinit_phuff_decoder
+ 0001:000A2238       ..
+ 0001:000A2370       @jpeg_make_d_derived_tbl
+ 0001:000A266C       @jpeg_fill_bit_buffer
+ 0001:000A27B8       @jpeg_huff_decode
+ 0001:000A2D84       @jinit_huff_decoder
+ 0001:000A2DC4       ..
+ 0001:000A3330       @jinit_merged_upsampler
+ 0001:000A33B0       ..
+ 0001:000A378C       @jinit_color_deconverter
+ 0001:000A3958       ..
+ 0001:000A450C       @jinit_1pass_quantizer
+ 0001:000A45A0       ..
+ 0001:000A5780       @jinit_2pass_quantizer
+ 0001:000A58A0       ..
+ 0001:000A5E98       @jinit_d_main_controller
+ 0001:000A5F78       ..
+ 0001:000A6EF4       @jinit_d_coef_controller
+ 0001:000A7008       ..
+ 0001:000A7268       @jinit_d_post_controller
+ 0001:000A72FC       ..
+ 0001:000A7550       @jinit_inverse_dct
+ 0001:000A75CC       ..
+ 0001:000A7AB0       @jinit_upsampler
+ 0001:000A7CC8       @jpeg_idct_float
+ 0001:000A810C       @jpeg_idct_ifast
+ 0001:000A8540       @jpeg_idct_4x4
+ 0001:000A88F4       @jpeg_idct_2x2
+ 0001:000A8AE4       @jpeg_idct_1x1
+ 0001:000A8B20       ..
+ 0001:000AA6E8       @jpeg_resync_to_restart
+ 0001:000AA81C       @jinit_marker_reader
+ 0001:000AA890       jpeg_save_markers
+ 0001:000AA978       @jdiv_round_up
+ 0001:000AA988       @jround_up
+ 0001:000AA9A0       @jcopy_sample_rows
+ 0001:000AA9EC       @jcopy_block_row
+ 0001:000AA9FC       @jzero_far
+ 0001:000AAA0C       @jpeg_abort
+ 0001:000AAA4C       jpeg_destroy
+ 0001:000AAA6C       @jpeg_alloc_quant_table
+ 0001:000AAA84       @jpeg_alloc_huff_table
+ 0001:000AAA9C       ..
+ 0001:000AAB6C       jpeg_stdio_dest
+ 0001:000AABAC       ..
+ 0001:000AACC8       jpeg_set_quality
+ 0001:000AADC4       jpeg_set_defaults
+ 0001:000AAF38       jpeg_set_colorspace
+ 0001:000AB3A0       jpeg_simple_progression
+ 0001:000AB5B8       jpeg_start_compress
+ 0001:000AB62C       jpeg_write_scanlines
+ 0001:000AB798       jpeg_CreateCompress
+ 0001:000AB870       @jpeg_suppress_tables
+ 0001:000AB8B8       jpeg_finish_compress
+ 0001:000ABAAC       @jinit_compress_master
+ 0001:000ABB58       ..
+ 0001:000AC32C       @jinit_marker_writer
+ 0001:000AC380       ..
+ 0001:000ACDE8       @jinit_c_master_control
+ 0001:000ACEB0       ..
+ 0001:000ACF88       @jinit_c_main_controller
+ 0001:000AD00C       ..
+ 0001:000AD4A0       @jinit_c_prep_controller
+ 0001:000AD548       ..
+ 0001:000ADC84       @jinit_c_coef_controller
+ 0001:000ADD4C       ..
+ 0001:000AE188       @jinit_color_converter
+ 0001:000AE3D4       ..
+ 0001:000AEB74       @jinit_downsampler
+ 0001:000AECFC       ..
+ 0001:000AF198       @jinit_forward_dct
+ 0001:000AF214       ..
+ 0001:000AFCA4       @jinit_phuff_encoder
+ 0001:000AFCE8       @jpeg_fdct_ifast
+ 0001:000AFF54       @jpeg_fdct_float
+ 0001:000B0280       ..
+ 0001:000B0410       @jpeg_make_c_derived_tbl
+ 0001:000B0C20       @jpeg_gen_optimal_table
+ 0001:000B0EDC       @jinit_huff_encoder
+ 0001:000B0F20       Finalization
+ 0001:000B0F60       jpeg
+ 0001:000B121C       Finalization
+ 0001:000B124C       FormAbout
+ 0001:000B1D40       TfraOwnNeeds.FrameEnter
+ 0001:000B1D80       TfraOwnNeeds.TimerOwnNeedsTimer
+ 0001:000B33AC       Finalization
+ 0001:000B33DC       FrameOwnNeeds
+ 0001:000B3690       TfraBalans.TimerBalansTimer
+ 0001:000B3D5C       TfraBalans.pcTeploChange
+ 0001:000B3DA8       Finalization
+ 0001:000B3DD8       FrameTeploset
+ 0001:000B4EBC       TfraSummary.FrameEnter
+ 0001:000B4EFC       TfraSummary.TimerSummaryPPTimer
+ 0001:000B50FC       Finalization
+ 0001:000B512C       FrameSummary
+ 0001:000B5668       TfrmOPClient.Connect
+ 0001:000B5734       TfrmOPClient.Disconnect
+ 0001:000B57F4       TOPCAdviseSink.OnDataChange
+ 0001:000B5AA8       TOPCAdviseSink.OnViewChange
+ 0001:000B5AB0       TOPCAdviseSink.OnRename
+ 0001:000B5AB8       TOPCAdviseSink.OnSave
+ 0001:000B5AC0       TOPCAdviseSink.OnClose
+ 0001:000B5AC8       TfrmOPClient.FormDestroy
+ 0001:000B5B84       TfrmOPClient.FormCreate
+ 0001:000B5E38       TfrmOPClient.Time
+ 0001:000B5E54       TfrmOPClient.Check1Click
+ 0001:000B5E74       TfrmOPClient.Timer1Timer
+ 0001:000B5E84       TfrmOPClient.CheckBox1Click
+ 0001:000B5EB0       TfrmOPClient.PageControlChange
+ 0001:000B61C0       TfrmOPClient.seTimerChange
+ 0001:000B61E4       TfrmOPClient.fraTurb1pcTurbChange
+ 0001:000B6430       TfrmOPClient.fraBalans1pcTeploChange
+ 0001:000B6648       TfrmOPClient.TimerBalansTimer
+ 0001:000B664C       TfrmOPClient.bbAboutClick
+ 0001:000B665C       Finalization
+ 0001:000B66C8       MyCl
+ 0001:000B66D0       ServerAddGroup
+ 0001:000B67B8       GroupAddItem
+ 0001:000B69A0       GroupRemoveItem
+ 0001:000B6A5C       GroupAdviseTime
+ 0001:000B6B7C       GroupUnAdvise
+ 0001:000B6C88       ReadOPC
+ 0001:000B7030       SetCallback
+ 0001:000B7154       CallbackOff
+ 0001:000B717C       ConnectionBroken
+ 0001:000B71EC       Finalization
+ 0001:000B721C       OPCutils
+ 0001:000B7224       Finalization
+ 0001:000B7634       MyOPC
  0002:00000000       ExitCode
  0002:00000004       ErrorAddr
  0002:00000008       FileMode
@@ -13230,10 +13230,6 @@ Line numbers for OPCDA(OPCDA.pas) segment .text
    668 0001:00065640   669 0001:0006564F   670 0001:0006565E   672 0001:0006566D
    674 0001:000656E8   675 0001:000656F1   677 0001:000656F6
 
-Line numbers for OPCEdit(OPCEdit.pas) segment .text
-
-    42 0001:000658E8    42 0001:000658EF
-
 Line numbers for FrameCollectSPT(FrameCollectSPT.pas) segment .text
 
    333 0001:0008A778   333 0001:0008A77F
@@ -13248,261 +13244,261 @@ Line numbers for FrameChemist2(FrameChemist2.pas) segment .text
 
 Line numbers for FrameTurb_Ochered4(FrameTurb_Ochered4.pas) segment .text
 
-   166 0001:0008BC2C   166 0001:0008BC33
+   168 0001:0008BC4C   168 0001:0008BC53
 
 Line numbers for FrameTurb_Ochered5(FrameTurb_Ochered5.pas) segment .text
 
-    77 0001:0008C100    77 0001:0008C107
+    77 0001:0008C120    77 0001:0008C127
 
 Line numbers for FrameTurb_TA10(FrameTurb_TA10.pas) segment .text
 
-   238 0001:0008CEFC   238 0001:0008CF03
+   238 0001:0008CF1C   238 0001:0008CF23
 
 Line numbers for FrameTurb_Ochered7(FrameTurb_Ochered7.pas) segment .text
 
-    77 0001:0008D3C8    77 0001:0008D3CF
+    77 0001:0008D3E8    77 0001:0008D3EF
 
 Line numbers for FrameTurb_ROU10_13(FrameTurb_ROU10_13.pas) segment .text
 
-    87 0001:0008D92C    87 0001:0008D933
+    87 0001:0008D94C    87 0001:0008D953
 
 Line numbers for FrameTurb_KA(FrameTurb_KA.pas) segment .text
 
-   189 0001:0008E490   191 0001:0008E4B1   192 0001:0008E50E   193 0001:0008E56B
-   194 0001:0008E5C8   195 0001:0008E625   196 0001:0008E67C   197 0001:0008E6D3
-   198 0001:0008E72A   200 0001:0008E781   201 0001:0008E7DE   202 0001:0008E841
-   203 0001:0008E8B0   204 0001:0008E91F   205 0001:0008E988   206 0001:0008E9F1
-   207 0001:0008EA5A   209 0001:0008EAC3   210 0001:0008EB32   211 0001:0008EBA1
-   212 0001:0008EC10   213 0001:0008EC7F   214 0001:0008ECE8   215 0001:0008ED51
-   216 0001:0008EDBA   218 0001:0008EE23   219 0001:0008EE8C   220 0001:0008EEF5
-   221 0001:0008EF5E   222 0001:0008F29D   224 0001:0008F2E4   224 0001:0008F2EB
+   189 0001:0008E4A4   191 0001:0008E4C5   192 0001:0008E522   193 0001:0008E57F
+   194 0001:0008E5DC   195 0001:0008E639   196 0001:0008E690   197 0001:0008E6E7
+   198 0001:0008E73E   200 0001:0008E795   201 0001:0008E7F2   202 0001:0008E855
+   203 0001:0008E8C4   204 0001:0008E933   205 0001:0008E99C   206 0001:0008EA05
+   207 0001:0008EA6E   209 0001:0008EAD7   210 0001:0008EB46   211 0001:0008EBB5
+   212 0001:0008EC24   213 0001:0008EC93   214 0001:0008ECFC   215 0001:0008ED65
+   216 0001:0008EDCE   218 0001:0008EE37   219 0001:0008EEA0   220 0001:0008EF09
+   221 0001:0008EF72   222 0001:0008F2B1   224 0001:0008F2F8   224 0001:0008F2FF
 
 Line numbers for FrameTurb_NGVS(FrameTurb_NGVS.pas) segment .text
 
-    77 0001:0008F7C4    77 0001:0008F7CB
+    77 0001:0008F7D8    77 0001:0008F7DF
 
 Line numbers for FrameTurb_Och4KA(FrameTurb_Och4KA.pas) segment .text
 
-    96 0001:0008FDD4    96 0001:0008FDDB
+    96 0001:0008FDE8    96 0001:0008FDEF
 
 Line numbers for FrameTurb_Och5KA(FrameTurb_Och5KA.pas) segment .text
 
-   319 0001:00090FE4   319 0001:00090FEB
+   319 0001:00090FF8   319 0001:00090FFF
 
 Line numbers for FrameTurb_Och6KA(FrameTurb_Och6KA.pas) segment .text
 
-   343 0001:00092350   343 0001:00092357
+   343 0001:00092364   343 0001:0009236B
 
 Line numbers for FrameTurb_Och7KA(FrameTurb_Och7KA.pas) segment .text
 
-   283 0001:00093364   283 0001:0009336B
+   283 0001:00093378   283 0001:0009337F
 
 Line numbers for FrameTurb_PDU(FrameTurb_PDU.pas) segment .text
 
-    73 0001:000937F0    73 0001:000937F7
+    73 0001:00093804    73 0001:0009380B
 
 Line numbers for FrameGASMET(FrameGASMET.pas) segment .text
 
-   224 0001:000945BC   225 0001:000945DF   227 0001:000945ED   228 0001:00094649
-   229 0001:000946A5   230 0001:00094701   232 0001:0009475D   233 0001:000947B9
-   234 0001:00094815   235 0001:00094871   237 0001:000948CD   238 0001:00094929
-   239 0001:00094985   240 0001:000949E1   242 0001:00094A3D   243 0001:00094A99
-   244 0001:00094AF5   245 0001:00094B57   247 0001:00094BBF   248 0001:00094C27
-   249 0001:00094C8F   250 0001:00094CF7   252 0001:00094D5F   253 0001:00094DC7
-   254 0001:00094E2F   255 0001:00094E97   257 0001:00094EFF   258 0001:00094F67
-   259 0001:00094FCF   260 0001:00095037   262 0001:0009509F   263 0001:00095107
-   264 0001:0009516F   265 0001:000951D7   267 0001:0009524E   268 0001:00095280
-   270 0001:000952B8   270 0001:000952BF
+   224 0001:000945D0   225 0001:000945F3   227 0001:00094601   228 0001:0009465D
+   229 0001:000946B9   230 0001:00094715   232 0001:00094771   233 0001:000947CD
+   234 0001:00094829   235 0001:00094885   237 0001:000948E1   238 0001:0009493D
+   239 0001:00094999   240 0001:000949F5   242 0001:00094A51   243 0001:00094AAD
+   244 0001:00094B09   245 0001:00094B6B   247 0001:00094BD3   248 0001:00094C3B
+   249 0001:00094CA3   250 0001:00094D0B   252 0001:00094D73   253 0001:00094DDB
+   254 0001:00094E43   255 0001:00094EAB   257 0001:00094F13   258 0001:00094F7B
+   259 0001:00094FE3   260 0001:0009504B   262 0001:000950B3   263 0001:0009511B
+   264 0001:00095183   265 0001:000951EB   267 0001:00095262   268 0001:00095294
+   270 0001:000952CC   270 0001:000952D3
 
 Line numbers for FrameTurb_Och6Acoustics(FrameTurb_Och6Acoustics.pas) segment .text
 
-   207 0001:00095E70   207 0001:00095E77
+   207 0001:00095E84   207 0001:00095E8B
 
 Line numbers for FrameTurb_TA12(FrameTurb_TA12.pas) segment .text
 
-   368 0001:0009745C   368 0001:00097463
+   368 0001:00097470   368 0001:00097477
 
 Line numbers for FrameTurb_TEP_TA4_9(FrameTurb_TEP_TA4_9.pas) segment .text
 
-   141 0001:00097D50   141 0001:00097D57
+   141 0001:00097D64   141 0001:00097D6B
 
 Line numbers for FrameTurb_TEP_TA10_12(FrameTurb_TEP_TA10_12.pas) segment .text
 
-   121 0001:000984F8   121 0001:000984FF
+   121 0001:0009850C   121 0001:00098513
 
 Line numbers for FrameTurb_TEP_KA7_15(FrameTurb_TEP_KA7_15.pas) segment .text
 
-   261 0001:000995D8   261 0001:000995DF
+   261 0001:000995EC   261 0001:000995F3
 
 Line numbers for FrameTurb(FrameTurb.pas) segment .text
 
-    63 0001:00099A04    64 0001:00099A07    65 0001:00099A51    66 0001:00099A80
-    68 0001:00099ADC    68 0001:00099AE3
+    63 0001:00099A18    64 0001:00099A1B    65 0001:00099A65    66 0001:00099A94
+    68 0001:00099AF0    68 0001:00099AF7
 
 Line numbers for FrameCollectSHA711(FrameCollectSHA711.pas) segment .text
 
-   166 0001:0009A4F0   166 0001:0009A4F7
+   166 0001:0009A504   166 0001:0009A50B
 
 Line numbers for FrameTeplosetBalans(FrameTeplosetBalans.pas) segment .text
 
-   228 0001:0009B358   228 0001:0009B35F
+   228 0001:0009B36C   228 0001:0009B373
 
 Line numbers for FrameBereg(FrameBereg.pas) segment .text
 
-    37 0001:0009B5CC    37 0001:0009B5D3
+    37 0001:0009B5E0    37 0001:0009B5E7
 
 Line numbers for FrameGradirnya(FrameGradirnya.pas) segment .text
 
-    89 0001:0009BB3C    89 0001:0009BB43
+    89 0001:0009BB50    89 0001:0009BB57
 
 Line numbers for FrameAskue(FrameAskue.pas) segment .text
 
-   372 0001:0009D288   372 0001:0009D28F
+   376 0001:0009D2E4   376 0001:0009D2EB
 
 Line numbers for FrameUPS(FrameUPS.pas) segment .text
 
-    69 0001:0009D724    70 0001:0009D746    71 0001:0009D754    72 0001:0009D797
-    73 0001:0009D7DA    74 0001:0009D81D    75 0001:0009D860    76 0001:0009D8A3
-    77 0001:0009D8E6    78 0001:0009D929    79 0001:0009D96C    80 0001:0009D9AF
-    81 0001:0009D9F2    82 0001:0009DA35    83 0001:0009DA78    84 0001:0009DABB
-    86 0001:0009DB0D    87 0001:0009DB34    89 0001:0009DB70    89 0001:0009DB77
+    69 0001:0009D780    70 0001:0009D7A2    71 0001:0009D7B0    72 0001:0009D7F3
+    73 0001:0009D836    74 0001:0009D879    75 0001:0009D8BC    76 0001:0009D8FF
+    77 0001:0009D942    78 0001:0009D985    79 0001:0009D9C8    80 0001:0009DA0B
+    81 0001:0009DA4E    82 0001:0009DA91    83 0001:0009DAD4    84 0001:0009DB17
+    86 0001:0009DB69    87 0001:0009DB90    89 0001:0009DBCC    89 0001:0009DBD3
 
 Line numbers for FormAbout(FormAbout.pas) segment .text
 
-    33 0001:000B11F0    33 0001:000B11F7
+    33 0001:000B124C    33 0001:000B1253
 
 Line numbers for FrameOwnNeeds(FrameOwnNeeds.pas) segment .text
 
-   183 0001:000B1CE4   184 0001:000B1CE7   185 0001:000B1CF4   186 0001:000B1D14
-   187 0001:000B1D21   193 0001:000B1D24   194 0001:000B1D47   195 0001:000B1D55
-   196 0001:000B1DC9   197 0001:000B1E49   198 0001:000B1EB2   200 0001:000B1F0D
-   202 0001:000B1F3C   203 0001:000B1F4A   204 0001:000B1FD6   205 0001:000B2062
-   206 0001:000B20CB   208 0001:000B2126   210 0001:000B2155   211 0001:000B2163
-   212 0001:000B21EF   213 0001:000B227B   214 0001:000B22E4   216 0001:000B233F
-   218 0001:000B236E   219 0001:000B237C   220 0001:000B23C2   222 0001:000B2402
-   224 0001:000B2431   225 0001:000B243F   226 0001:000B2485   228 0001:000B24C5
-   230 0001:000B24F4   231 0001:000B2502   232 0001:000B2548   234 0001:000B2588
-   236 0001:000B25B7   237 0001:000B25C5   238 0001:000B2651   239 0001:000B2674
-   240 0001:000B268D   242 0001:000B26CA   243 0001:000B26D2   245 0001:000B2705
-   246 0001:000B2713   247 0001:000B2736   249 0001:000B2776   251 0001:000B27A5
-   252 0001:000B27B3   253 0001:000B27D6   255 0001:000B2816   257 0001:000B2845
-   258 0001:000B2853   259 0001:000B2876   261 0001:000B28B6   263 0001:000B28E5
-   264 0001:000B28F3   265 0001:000B2916   267 0001:000B2956   269 0001:000B2985
-   270 0001:000B2993   271 0001:000B29B6   273 0001:000B29F6   275 0001:000B2A25
-   276 0001:000B2A33   277 0001:000B2A56   279 0001:000B2A96   281 0001:000B2AC5
-   282 0001:000B2AD3   283 0001:000B2AF6   285 0001:000B2B36   287 0001:000B2B65
-   288 0001:000B2B73   289 0001:000B2B96   291 0001:000B2BD6   293 0001:000B2C05
-   294 0001:000B2C13   295 0001:000B2C36   297 0001:000B2C76   299 0001:000B2CA5
-   300 0001:000B2CB3   301 0001:000B2CD6   303 0001:000B2D16   305 0001:000B2D45
-   306 0001:000B2D53   307 0001:000B2D76   309 0001:000B2DB6   311 0001:000B2DE5
-   312 0001:000B2DF3   313 0001:000B2E7F   314 0001:000B2F0B   315 0001:000B2F74
-   317 0001:000B2FCF   319 0001:000B2FFE   320 0001:000B300C   321 0001:000B3052
-   323 0001:000B3092   325 0001:000B3332   327 0001:000B3380   327 0001:000B3387
+   183 0001:000B1D40   184 0001:000B1D43   185 0001:000B1D50   186 0001:000B1D70
+   187 0001:000B1D7D   193 0001:000B1D80   194 0001:000B1DA3   195 0001:000B1DB1
+   196 0001:000B1E25   197 0001:000B1EA5   198 0001:000B1F0E   200 0001:000B1F69
+   202 0001:000B1F98   203 0001:000B1FA6   204 0001:000B2032   205 0001:000B20BE
+   206 0001:000B2127   208 0001:000B2182   210 0001:000B21B1   211 0001:000B21BF
+   212 0001:000B224B   213 0001:000B22D7   214 0001:000B2340   216 0001:000B239B
+   218 0001:000B23CA   219 0001:000B23D8   220 0001:000B241E   222 0001:000B245E
+   224 0001:000B248D   225 0001:000B249B   226 0001:000B24E1   228 0001:000B2521
+   230 0001:000B2550   231 0001:000B255E   232 0001:000B25A4   234 0001:000B25E4
+   236 0001:000B2613   237 0001:000B2621   238 0001:000B26AD   239 0001:000B26D0
+   240 0001:000B26E9   242 0001:000B2726   243 0001:000B272E   245 0001:000B2761
+   246 0001:000B276F   247 0001:000B2792   249 0001:000B27D2   251 0001:000B2801
+   252 0001:000B280F   253 0001:000B2832   255 0001:000B2872   257 0001:000B28A1
+   258 0001:000B28AF   259 0001:000B28D2   261 0001:000B2912   263 0001:000B2941
+   264 0001:000B294F   265 0001:000B2972   267 0001:000B29B2   269 0001:000B29E1
+   270 0001:000B29EF   271 0001:000B2A12   273 0001:000B2A52   275 0001:000B2A81
+   276 0001:000B2A8F   277 0001:000B2AB2   279 0001:000B2AF2   281 0001:000B2B21
+   282 0001:000B2B2F   283 0001:000B2B52   285 0001:000B2B92   287 0001:000B2BC1
+   288 0001:000B2BCF   289 0001:000B2BF2   291 0001:000B2C32   293 0001:000B2C61
+   294 0001:000B2C6F   295 0001:000B2C92   297 0001:000B2CD2   299 0001:000B2D01
+   300 0001:000B2D0F   301 0001:000B2D32   303 0001:000B2D72   305 0001:000B2DA1
+   306 0001:000B2DAF   307 0001:000B2DD2   309 0001:000B2E12   311 0001:000B2E41
+   312 0001:000B2E4F   313 0001:000B2EDB   314 0001:000B2F67   315 0001:000B2FD0
+   317 0001:000B302B   319 0001:000B305A   320 0001:000B3068   321 0001:000B30AE
+   323 0001:000B30EE   325 0001:000B338E   327 0001:000B33DC   327 0001:000B33E3
 
 Line numbers for FrameTeploset(FrameTeploset.pas) segment .text
 
-    40 0001:000B3634    41 0001:000B3656    42 0001:000B3664    53 0001:000B398F
-    58 0001:000B3ADB    63 0001:000B3BE0    64 0001:000B3CE9    67 0001:000B3D00
-    68 0001:000B3D03    69 0001:000B3D2E    71 0001:000B3D7C    71 0001:000B3D83
+    40 0001:000B3690    41 0001:000B36B2    42 0001:000B36C0    53 0001:000B39EB
+    58 0001:000B3B37    63 0001:000B3C3C    64 0001:000B3D45    67 0001:000B3D5C
+    68 0001:000B3D5F    69 0001:000B3D8A    71 0001:000B3DD8    71 0001:000B3DDF
 
 Line numbers for FrameSummary(FrameSummary.pas) segment .text
 
-   288 0001:000B4E44   289 0001:000B4E47   290 0001:000B4E54   291 0001:000B4E74
-   292 0001:000B4E81   295 0001:000B4E84   296 0001:000B4EA5   297 0001:000B4EFC
-   298 0001:000B4F53   299 0001:000B4FAA   300 0001:000B506D   302 0001:000B50B4
-   302 0001:000B50BB
+   290 0001:000B4EBC   291 0001:000B4EBF   292 0001:000B4ECC   293 0001:000B4EEC
+   294 0001:000B4EF9   297 0001:000B4EFC   298 0001:000B4F1D   299 0001:000B4F74
+   300 0001:000B4FCB   301 0001:000B5022   302 0001:000B50E5   304 0001:000B512C
+   304 0001:000B5133
 
 Line numbers for MyCl(MyCl.pas) segment .text
 
-    94 0001:000B5500   141 0001:000B55F0   142 0001:000B55F3   144 0001:000B55FC
-   145 0001:000B560A   147 0001:000B562C   149 0001:000B563A   150 0001:000B5650
-   153 0001:000B5659   157 0001:000B566F   160 0001:000B56BC   161 0001:000B56BF
-   162 0001:000B56C8   163 0001:000B56D1   164 0001:000B56E5   166 0001:000B56F3
-   167 0001:000B5709   170 0001:000B5712   190 0001:000B5728   209 0001:000B577C
-   213 0001:000B57A7   216 0001:000B57C2   218 0001:000B57CD   219 0001:000B57DB
-   223 0001:000B57E3   224 0001:000B57E8   225 0001:000B57EB   227 0001:000B57FB
-   229 0001:000B580D   231 0001:000B5813   232 0001:000B581F   233 0001:000B5828
-   234 0001:000B5838   235 0001:000B584D   238 0001:000B5860   239 0001:000B586F
-   240 0001:000B5878   242 0001:000B5888   245 0001:000B5894   247 0001:000B589D
-   254 0001:000B58AA   255 0001:000B58B6   257 0001:000B58CC   259 0001:000B58D6
-   271 0001:000B5930   273 0001:000B5972   227 0001:000B5973   275 0001:000B597C
-   277 0001:000B59C2   280 0001:000B5A30   281 0001:000B5A33   284 0001:000B5A38
-   285 0001:000B5A3B   288 0001:000B5A40   289 0001:000B5A43   292 0001:000B5A48
-   293 0001:000B5A4B   365 0001:000B5A50   367 0001:000B5A53   368 0001:000B5A5C
-   369 0001:000B5A6A   370 0001:000B5A82   372 0001:000B5A90   375 0001:000B5AA8
-   377 0001:000B5ABE   378 0001:000B5AC8   379 0001:000B5ACF   392 0001:000B5B0C
-   393 0001:000B5B2B   405 0001:000B5B3C   416 0001:000B5B58   418 0001:000B5B66
-   421 0001:000B5B70   422 0001:000B5B7D   423 0001:000B5B8E   427 0001:000B5B9C
-   429 0001:000B5BCF   431 0001:000B5BDE   433 0001:000B5BE7   446 0001:000B5C02
-   447 0001:000B5C1B   451 0001:000B5C1D   452 0001:000B5C45   454 0001:000B5C53
-   455 0001:000B5C6C   458 0001:000B5C75   459 0001:000B5C8E   470 0001:000B5C90
-   472 0001:000B5CB8   477 0001:000B5DC0   478 0001:000B5DC9   479 0001:000B5DD8
-   482 0001:000B5DDC   483 0001:000B5DDF   484 0001:000B5DFA   488 0001:000B5DFC
-   489 0001:000B5E0B   492 0001:000B5E0C   493 0001:000B5E0F   494 0001:000B5E2A
-   495 0001:000B5E31   496 0001:000B5E36   504 0001:000B5E38   505 0001:000B5E57
-   506 0001:000B5E7F   507 0001:000B5EBF   509 0001:000B5EFF   510 0001:000B5F18
-   511 0001:000B5F25   512 0001:000B5F36   513 0001:000B5F40   514 0001:000B5F54
-   520 0001:000B5F5F   522 0001:000B5F84   523 0001:000B5F98   524 0001:000B5FA6
-   525 0001:000B5FB6   526 0001:000B5FDB   527 0001:000B5FED   528 0001:000B5FF7
-   529 0001:000B5FFA   530 0001:000B5FFF   531 0001:000B6003   532 0001:000B600F
-   522 0001:000B6010   534 0001:000B6013   535 0001:000B601B   536 0001:000B602F
-   537 0001:000B609A   540 0001:000B6148   541 0001:000B614B   542 0001:000B6167
-   549 0001:000B616C   550 0001:000B618B   551 0001:000B61B3   552 0001:000B61F3
-   554 0001:000B6241   555 0001:000B625A   556 0001:000B6267   557 0001:000B6278
-   559 0001:000B6282   560 0001:000B6296   561 0001:000B62A4   562 0001:000B62B4
-   563 0001:000B62D9   564 0001:000B62EB   565 0001:000B62F5   566 0001:000B62F8
-   567 0001:000B62FD   568 0001:000B6301   569 0001:000B630D   559 0001:000B630E
-   571 0001:000B6311   572 0001:000B6319   573 0001:000B634A   580 0001:000B63B8
-   581 0001:000B63D7   582 0001:000B63FF   584 0001:000B643F   585 0001:000B6458
-   586 0001:000B6465   587 0001:000B6476   589 0001:000B6480   596 0001:000B6492
-   597 0001:000B64A6   598 0001:000B64B4   599 0001:000B64C4   600 0001:000B64E9
-   601 0001:000B64FB   602 0001:000B6505   603 0001:000B6508   604 0001:000B650D
-   605 0001:000B6511   606 0001:000B651D   596 0001:000B651E   608 0001:000B6521
-   609 0001:000B6529   610 0001:000B655A   625 0001:000B65D0   629 0001:000B65D4
-   630 0001:000B65E3   632 0001:000B6650   632 0001:000B6657
+    94 0001:000B5578   141 0001:000B5668   142 0001:000B566B   144 0001:000B5674
+   145 0001:000B5682   147 0001:000B56A4   149 0001:000B56B2   150 0001:000B56C8
+   153 0001:000B56D1   157 0001:000B56E7   160 0001:000B5734   161 0001:000B5737
+   162 0001:000B5740   163 0001:000B5749   164 0001:000B575D   166 0001:000B576B
+   167 0001:000B5781   170 0001:000B578A   190 0001:000B57A0   209 0001:000B57F4
+   213 0001:000B581F   216 0001:000B583A   218 0001:000B5845   219 0001:000B5853
+   223 0001:000B585B   224 0001:000B5860   225 0001:000B5863   227 0001:000B5873
+   229 0001:000B5885   231 0001:000B588B   232 0001:000B5897   233 0001:000B58A0
+   234 0001:000B58B0   235 0001:000B58C5   238 0001:000B58D8   239 0001:000B58E7
+   240 0001:000B58F0   242 0001:000B5900   245 0001:000B590C   247 0001:000B5915
+   254 0001:000B5922   255 0001:000B592E   257 0001:000B5944   259 0001:000B594E
+   271 0001:000B59A8   273 0001:000B59EA   227 0001:000B59EB   275 0001:000B59F4
+   277 0001:000B5A3A   280 0001:000B5AA8   281 0001:000B5AAB   284 0001:000B5AB0
+   285 0001:000B5AB3   288 0001:000B5AB8   289 0001:000B5ABB   292 0001:000B5AC0
+   293 0001:000B5AC3   365 0001:000B5AC8   367 0001:000B5ACB   368 0001:000B5AD4
+   369 0001:000B5AE2   370 0001:000B5AFA   372 0001:000B5B08   375 0001:000B5B20
+   377 0001:000B5B36   378 0001:000B5B40   379 0001:000B5B47   392 0001:000B5B84
+   393 0001:000B5BA3   405 0001:000B5BB4   416 0001:000B5BD0   418 0001:000B5BDE
+   421 0001:000B5BE8   422 0001:000B5BF5   423 0001:000B5C06   427 0001:000B5C14
+   429 0001:000B5C47   431 0001:000B5C56   433 0001:000B5C5F   446 0001:000B5C7A
+   447 0001:000B5C93   451 0001:000B5C95   452 0001:000B5CBD   454 0001:000B5CCB
+   455 0001:000B5CE4   458 0001:000B5CED   459 0001:000B5D06   470 0001:000B5D08
+   472 0001:000B5D30   477 0001:000B5E38   478 0001:000B5E41   479 0001:000B5E50
+   482 0001:000B5E54   483 0001:000B5E57   484 0001:000B5E72   488 0001:000B5E74
+   489 0001:000B5E83   492 0001:000B5E84   493 0001:000B5E87   494 0001:000B5EA2
+   495 0001:000B5EA9   496 0001:000B5EAE   504 0001:000B5EB0   505 0001:000B5ECF
+   506 0001:000B5EF7   507 0001:000B5F37   509 0001:000B5F77   510 0001:000B5F90
+   511 0001:000B5F9D   512 0001:000B5FAE   513 0001:000B5FB8   514 0001:000B5FCC
+   520 0001:000B5FD7   522 0001:000B5FFC   523 0001:000B6010   524 0001:000B601E
+   525 0001:000B602E   526 0001:000B6053   527 0001:000B6065   528 0001:000B606F
+   529 0001:000B6072   530 0001:000B6077   531 0001:000B607B   532 0001:000B6087
+   522 0001:000B6088   534 0001:000B608B   535 0001:000B6093   536 0001:000B60A7
+   537 0001:000B6112   540 0001:000B61C0   541 0001:000B61C3   542 0001:000B61DF
+   549 0001:000B61E4   550 0001:000B6203   551 0001:000B622B   552 0001:000B626B
+   554 0001:000B62B9   555 0001:000B62D2   556 0001:000B62DF   557 0001:000B62F0
+   559 0001:000B62FA   560 0001:000B630E   561 0001:000B631C   562 0001:000B632C
+   563 0001:000B6351   564 0001:000B6363   565 0001:000B636D   566 0001:000B6370
+   567 0001:000B6375   568 0001:000B6379   569 0001:000B6385   559 0001:000B6386
+   571 0001:000B6389   572 0001:000B6391   573 0001:000B63C2   580 0001:000B6430
+   581 0001:000B644F   582 0001:000B6477   584 0001:000B64B7   585 0001:000B64D0
+   586 0001:000B64DD   587 0001:000B64EE   589 0001:000B64F8   596 0001:000B650A
+   597 0001:000B651E   598 0001:000B652C   599 0001:000B653C   600 0001:000B6561
+   601 0001:000B6573   602 0001:000B657D   603 0001:000B6580   604 0001:000B6585
+   605 0001:000B6589   606 0001:000B6595   596 0001:000B6596   608 0001:000B6599
+   609 0001:000B65A1   610 0001:000B65D2   625 0001:000B6648   629 0001:000B664C
+   630 0001:000B665B   632 0001:000B66C8   632 0001:000B66CF
 
 Line numbers for OPCutils(OPCutils.pas) segment .text
 
-    59 0001:000B6658    60 0001:000B668F    61 0001:000B6694    63 0001:000B669A
-    64 0001:000B669F    69 0001:000B66E4    71 0001:000B66EF    73 0001:000B6725
-    87 0001:000B6740    88 0001:000B6765    90 0001:000B676B    91 0001:000B6772
-    93 0001:000B6777    95 0001:000B6784   100 0001:000B6794   101 0001:000B679C
-   102 0001:000B67AA   103 0001:000B67B4   104 0001:000B67BB   105 0001:000B67C1
-   106 0001:000B67C6   107 0001:000B67CB   109 0001:000B67D3   110 0001:000B67EC
-    95 0001:000B67ED   111 0001:000B67F0   112 0001:000B6811   115 0001:000B6821
-   116 0001:000B682F   117 0001:000B683F   119 0001:000B684F   120 0001:000B685F
-   122 0001:000B686B   124 0001:000B6874   125 0001:000B6878   126 0001:000B689C
-   129 0001:000B68C0   117 0001:000B68C1   132 0001:000B68D1   133 0001:000B68DA
-   136 0001:000B690B   151 0001:000B6928   152 0001:000B694C   154 0001:000B6952
-   155 0001:000B6957   157 0001:000B6959   159 0001:000B6966   161 0001:000B6973
-   162 0001:000B697C   163 0001:000B6985   159 0001:000B6986   164 0001:000B6989
-   165 0001:000B69A2   167 0001:000B69AD   168 0001:000B69B2   170 0001:000B69DA
-   178 0001:000B69E4   179 0001:000B6A19   180 0001:000B6A20   181 0001:000B6A2E
-   183 0001:000B6A4D   185 0001:000B6A5A   189 0001:000B6A60   190 0001:000B6A6C
-   191 0001:000B6A73   192 0001:000B6A78   193 0001:000B6A7F   195 0001:000B6A86
-   196 0001:000B6A8D   197 0001:000B6AA7   199 0001:000B6AB3   202 0001:000B6AEA
-   208 0001:000B6B04   209 0001:000B6B2E   210 0001:000B6B35   211 0001:000B6B43
-   213 0001:000B6B62   215 0001:000B6B6F   217 0001:000B6B75   218 0001:000B6B85
-   220 0001:000B6BCA   335 0001:000B6C10   336 0001:000B6C42   337 0001:000B6C49
-   341 0001:000B6C53   342 0001:000B6C58   343 0001:000B6C65   345 0001:000B6C72
-   346 0001:000B6C7B   348 0001:000B6C81   349 0001:000B6C91   351 0001:000B6C94
-   343 0001:000B6C95   352 0001:000B6C98   353 0001:000B6CA6   355 0001:000B6CC5
-   357 0001:000B6CD2   359 0001:000B6CDC   360 0001:000B6CFA   361 0001:000B6D00
-   362 0001:000B6D05   365 0001:000B6D0A   367 0001:000B6D19   368 0001:000B6D33
-   369 0001:000B6D44   371 0001:000B6D93   372 0001:000B6DA0   383 0001:000B6E24
-   391 0001:000B6E7C   392 0001:000B6E9A   393 0001:000B6EC3   394 0001:000B6EEC
-   397 0001:000B6F13   365 0001:000B6F14   399 0001:000B6F1B   401 0001:000B6F27
-   402 0001:000B6F2F   404 0001:000B6F38   407 0001:000B6F7E   424 0001:000B6FB8
-   425 0001:000B6FC6   426 0001:000B6FE5   427 0001:000B7007   429 0001:000B7017
-   430 0001:000B7034   433 0001:000B704D   434 0001:000B706A   437 0001:000B7072
-   441 0001:000B70DC   445 0001:000B70E6   446 0001:000B70FA   448 0001:000B7102
-   453 0001:000B7104   454 0001:000B710D   455 0001:000B711E   456 0001:000B7137
-   454 0001:000B7156   457 0001:000B7159   459 0001:000B71A4   459 0001:000B71AB
+    59 0001:000B66D0    60 0001:000B6707    61 0001:000B670C    63 0001:000B6712
+    64 0001:000B6717    69 0001:000B675C    71 0001:000B6767    73 0001:000B679D
+    87 0001:000B67B8    88 0001:000B67DD    90 0001:000B67E3    91 0001:000B67EA
+    93 0001:000B67EF    95 0001:000B67FC   100 0001:000B680C   101 0001:000B6814
+   102 0001:000B6822   103 0001:000B682C   104 0001:000B6833   105 0001:000B6839
+   106 0001:000B683E   107 0001:000B6843   109 0001:000B684B   110 0001:000B6864
+    95 0001:000B6865   111 0001:000B6868   112 0001:000B6889   115 0001:000B6899
+   116 0001:000B68A7   117 0001:000B68B7   119 0001:000B68C7   120 0001:000B68D7
+   122 0001:000B68E3   124 0001:000B68EC   125 0001:000B68F0   126 0001:000B6914
+   129 0001:000B6938   117 0001:000B6939   132 0001:000B6949   133 0001:000B6952
+   136 0001:000B6983   151 0001:000B69A0   152 0001:000B69C4   154 0001:000B69CA
+   155 0001:000B69CF   157 0001:000B69D1   159 0001:000B69DE   161 0001:000B69EB
+   162 0001:000B69F4   163 0001:000B69FD   159 0001:000B69FE   164 0001:000B6A01
+   165 0001:000B6A1A   167 0001:000B6A25   168 0001:000B6A2A   170 0001:000B6A52
+   178 0001:000B6A5C   179 0001:000B6A91   180 0001:000B6A98   181 0001:000B6AA6
+   183 0001:000B6AC5   185 0001:000B6AD2   189 0001:000B6AD8   190 0001:000B6AE4
+   191 0001:000B6AEB   192 0001:000B6AF0   193 0001:000B6AF7   195 0001:000B6AFE
+   196 0001:000B6B05   197 0001:000B6B1F   199 0001:000B6B2B   202 0001:000B6B62
+   208 0001:000B6B7C   209 0001:000B6BA6   210 0001:000B6BAD   211 0001:000B6BBB
+   213 0001:000B6BDA   215 0001:000B6BE7   217 0001:000B6BED   218 0001:000B6BFD
+   220 0001:000B6C42   335 0001:000B6C88   336 0001:000B6CBA   337 0001:000B6CC1
+   341 0001:000B6CCB   342 0001:000B6CD0   343 0001:000B6CDD   345 0001:000B6CEA
+   346 0001:000B6CF3   348 0001:000B6CF9   349 0001:000B6D09   351 0001:000B6D0C
+   343 0001:000B6D0D   352 0001:000B6D10   353 0001:000B6D1E   355 0001:000B6D3D
+   357 0001:000B6D4A   359 0001:000B6D54   360 0001:000B6D72   361 0001:000B6D78
+   362 0001:000B6D7D   365 0001:000B6D82   367 0001:000B6D91   368 0001:000B6DAB
+   369 0001:000B6DBC   371 0001:000B6E0B   372 0001:000B6E18   383 0001:000B6E9C
+   391 0001:000B6EF4   392 0001:000B6F12   393 0001:000B6F3B   394 0001:000B6F64
+   397 0001:000B6F8B   365 0001:000B6F8C   399 0001:000B6F93   401 0001:000B6F9F
+   402 0001:000B6FA7   404 0001:000B6FB0   407 0001:000B6FF6   424 0001:000B7030
+   425 0001:000B703E   426 0001:000B705D   427 0001:000B707F   429 0001:000B708F
+   430 0001:000B70AC   433 0001:000B70C5   434 0001:000B70E2   437 0001:000B70EA
+   441 0001:000B7154   445 0001:000B715E   446 0001:000B7172   448 0001:000B717A
+   453 0001:000B717C   454 0001:000B7185   455 0001:000B7196   456 0001:000B71AF
+   454 0001:000B71CE   457 0001:000B71D1   459 0001:000B721C   459 0001:000B7223
 
-Line numbers for MyOPC(Z:\C\Projects\Delphi\OPCClient\OPCClient.dpr) segment .text
+Line numbers for MyOPC(Z:\E\Projects\Delphi\OPCClient\OPCClient.dpr) segment .text
 
-    53 0001:000B75BC    54 0001:000B75CC    55 0001:000B75D8    56 0001:000B75E9
-    57 0001:000B7601    58 0001:000B7619    59 0001:000B7625
+    53 0001:000B7634    54 0001:000B7644    55 0001:000B7650    56 0001:000B7661
+    57 0001:000B7679    58 0001:000B7691    59 0001:000B769D
 
 Bound resource files
 
@@ -13551,4 +13547,4 @@ MyOPC.RES
 MyOPC.drf
 
 
-Program entry point at 0001:000B75BC
+Program entry point at 0001:000B7634

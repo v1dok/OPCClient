@@ -153,6 +153,8 @@ type
     OPCEdit48: TOPCEdit;
     Edit58: TEdit;
     OPCEdit38: TOPCEdit;
+    Edit76: TEdit;
+    OPCEdit49: TOPCEdit;
   private
     { Private declarations }
   public

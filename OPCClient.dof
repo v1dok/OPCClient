@@ -114,7 +114,7 @@ IncludeVerInfo=1
 AutoIncBuild=1
 MajorVer=2
 MinorVer=2
-Release=34
+Release=37
 Build=0
 Debug=0
 PreRelease=0
@@ -126,13 +126,13 @@ CodePage=1251
 [Version Info Keys]
 CompanyName=UKTETS
 FileDescription=Receiving process parameters via OPC
-FileVersion=2.2.34.0
+FileVersion=2.2.37.0
 InternalName=
 LegalCopyright=
 LegalTrademarks=
 OriginalFilename=OPCClient
 ProductName=OPCClient
-ProductVersion=2.2.34
+ProductVersion=2.2.37
 Comments=
 [HistoryLists\hlUnitAliases]
 Count=1

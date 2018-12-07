@@ -269,6 +269,8 @@ type
     OPCEdit17: TOPCEdit;
     Edit120: TEdit;
     OPCEdit26: TOPCEdit;
+    Edit126: TEdit;
+    OPCEdit35: TOPCEdit;
     procedure FrameEnter(Sender: TObject);
     procedure TimerSummaryPPTimer(Sender: TObject);
   private

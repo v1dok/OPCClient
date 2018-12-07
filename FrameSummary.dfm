@@ -3098,12 +3098,12 @@ object fraSummary: TfraSummary
     ParentFont = False
     ReadOnly = True
     TabOrder = 241
-    Text = 'Power_SN'
-    OPCTag = 'Power_SN'
+    Text = 'FidAll_SN'
+    OPCTag = 'FidAll_SN'
   end
   object Edit116: TEdit
     Left = 866
-    Top = 367
+    Top = 407
     Width = 110
     Height = 22
     BevelInner = bvNone
@@ -3123,7 +3123,7 @@ object fraSummary: TfraSummary
   end
   object OPCEdit6: TOPCEdit
     Left = 866
-    Top = 388
+    Top = 428
     Width = 110
     Height = 22
     Ctl3D = False
@@ -3341,6 +3341,44 @@ object fraSummary: TfraSummary
     TabOrder = 259
     Text = 'P_atm'
     OPCTag = 'P_atm'
+  end
+  object Edit126: TEdit
+    Left = 866
+    Top = 367
+    Width = 110
+    Height = 22
+    BevelInner = bvNone
+    BevelOuter = bvNone
+    Color = clBtnFace
+    Ctl3D = False
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -13
+    Font.Name = 'MS Sans Serif'
+    Font.Style = [fsBold]
+    ParentCtl3D = False
+    ParentFont = False
+    ReadOnly = True
+    TabOrder = 260
+    Text = #1055#1086#1090#1077#1088#1080' '#1074' '#1058
+  end
+  object OPCEdit35: TOPCEdit
+    Left = 866
+    Top = 388
+    Width = 110
+    Height = 22
+    Ctl3D = False
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -13
+    Font.Name = 'MS Sans Serif'
+    Font.Style = [fsBold]
+    ParentCtl3D = False
+    ParentFont = False
+    ReadOnly = True
+    TabOrder = 261
+    Text = 'Losses_All'
+    OPCTag = 'Losses_All'
   end
   object TimerSummaryPP: TTimer
     Interval = 5000

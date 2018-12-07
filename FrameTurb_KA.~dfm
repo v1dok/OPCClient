@@ -1096,32 +1096,6 @@ object fraTurb_KA: TfraTurb_KA
     Text = 'K14_P_kvv'
     OPCTag = 'K14_P_kvv'
   end
-  object Edit44: TEdit
-    Left = 638
-    Top = 253
-    Width = 75
-    Height = 22
-    BevelInner = bvNone
-    BevelOuter = bvNone
-    Color = clBtnFace
-    Ctl3D = False
-    ParentCtl3D = False
-    ReadOnly = True
-    TabOrder = 82
-    Text = #1050#1040'-15'
-  end
-  object OPCEdit26: TOPCEdit
-    Left = 638
-    Top = 274
-    Width = 75
-    Height = 22
-    Ctl3D = False
-    ParentCtl3D = False
-    ReadOnly = True
-    TabOrder = 83
-    Text = 'Q_p_p_2n_k11_Val'
-    OPCTag = 'Q_p_p_2n_k11_Val'
-  end
   object Edit45: TEdit
     Left = 8
     Top = 295
@@ -1133,7 +1107,7 @@ object fraTurb_KA: TfraTurb_KA
     Ctl3D = False
     ParentCtl3D = False
     ReadOnly = True
-    TabOrder = 84
+    TabOrder = 82
     Text = #1056#1072#1079#1088#1077#1078#1077#1085#1080#1077' '#1074' '#1090#1086#1087#1082#1077' '#1089#1087#1088#1072#1074#1072
   end
   object OPCEdit27: TOPCEdit
@@ -1144,7 +1118,7 @@ object fraTurb_KA: TfraTurb_KA
     Ctl3D = False
     ParentCtl3D = False
     ReadOnly = True
-    TabOrder = 85
+    TabOrder = 83
     Text = 'AI_K11_P37_VB_OUT'
     OPCTag = 'AI_K11_P37_VB_OUT'
   end
@@ -1156,7 +1130,7 @@ object fraTurb_KA: TfraTurb_KA
     Ctl3D = False
     ParentCtl3D = False
     ReadOnly = True
-    TabOrder = 86
+    TabOrder = 84
     Text = 'AI_K12_P10_1'
     OPCTag = 'AI_K12_P10_1'
   end
@@ -1168,7 +1142,7 @@ object fraTurb_KA: TfraTurb_KA
     Ctl3D = False
     ParentCtl3D = False
     ReadOnly = True
-    TabOrder = 87
+    TabOrder = 85
     Text = 'AI_K13_P37_VB_OUT'
     OPCTag = 'AI_K13_P37_VB_OUT'
   end
@@ -1180,21 +1154,9 @@ object fraTurb_KA: TfraTurb_KA
     Ctl3D = False
     ParentCtl3D = False
     ReadOnly = True
-    TabOrder = 88
+    TabOrder = 86
     Text = 'K14_P_tp'
     OPCTag = 'K14_P_tp'
-  end
-  object OPCEdit31: TOPCEdit
-    Left = 638
-    Top = 295
-    Width = 75
-    Height = 22
-    Ctl3D = False
-    ParentCtl3D = False
-    ReadOnly = True
-    TabOrder = 89
-    Text = 'Q_p_p_2n_k11_Val'
-    OPCTag = 'Q_p_p_2n_k11_Val'
   end
   object Edit46: TEdit
     Left = 8
@@ -1207,7 +1169,7 @@ object fraTurb_KA: TfraTurb_KA
     Ctl3D = False
     ParentCtl3D = False
     ReadOnly = True
-    TabOrder = 90
+    TabOrder = 87
     Text = #1056#1072#1079#1088#1077#1078#1077#1085#1080#1077' '#1074' '#1090#1086#1087#1082#1077' '#1089#1083#1077#1074#1072
   end
   object OPCEdit32: TOPCEdit
@@ -1218,7 +1180,7 @@ object fraTurb_KA: TfraTurb_KA
     Ctl3D = False
     ParentCtl3D = False
     ReadOnly = True
-    TabOrder = 91
+    TabOrder = 88
     Text = 'AI_K11_P38_VB_OUT'
     OPCTag = 'AI_K11_P38_VB_OUT'
   end
@@ -1230,7 +1192,7 @@ object fraTurb_KA: TfraTurb_KA
     Ctl3D = False
     ParentCtl3D = False
     ReadOnly = True
-    TabOrder = 92
+    TabOrder = 89
     Text = 'AI_K12_P11'
     OPCTag = 'AI_K12_P11'
   end
@@ -1242,7 +1204,7 @@ object fraTurb_KA: TfraTurb_KA
     Ctl3D = False
     ParentCtl3D = False
     ReadOnly = True
-    TabOrder = 93
+    TabOrder = 90
     Text = 'AI_K13_P38_VB_OUT'
     OPCTag = 'AI_K13_P38_VB_OUT'
   end
@@ -1254,21 +1216,9 @@ object fraTurb_KA: TfraTurb_KA
     Ctl3D = False
     ParentCtl3D = False
     ReadOnly = True
-    TabOrder = 94
+    TabOrder = 91
     Text = 'K14_P_tl'
     OPCTag = 'K14_P_tl'
-  end
-  object OPCEdit37: TOPCEdit
-    Left = 638
-    Top = 316
-    Width = 75
-    Height = 22
-    Ctl3D = False
-    ParentCtl3D = False
-    ReadOnly = True
-    TabOrder = 95
-    Text = 'Q_p_p_2n_k11_Val'
-    OPCTag = 'Q_p_p_2n_k11_Val'
   end
   object Edit47: TEdit
     Left = 8
@@ -1281,7 +1231,7 @@ object fraTurb_KA: TfraTurb_KA
     Ctl3D = False
     ParentCtl3D = False
     ReadOnly = True
-    TabOrder = 96
+    TabOrder = 92
     Text = 'P91'
   end
   object OPCEdit38: TOPCEdit
@@ -1292,7 +1242,7 @@ object fraTurb_KA: TfraTurb_KA
     Ctl3D = False
     ParentCtl3D = False
     ReadOnly = True
-    TabOrder = 97
+    TabOrder = 93
     Text = 'AI_K11_P91_VB_OUT'
     OPCTag = 'AI_K11_P91_VB_OUT'
   end
@@ -1304,7 +1254,7 @@ object fraTurb_KA: TfraTurb_KA
     Ctl3D = False
     ParentCtl3D = False
     ReadOnly = True
-    TabOrder = 98
+    TabOrder = 94
     Text = 'AI_K12_P91'
     OPCTag = 'AI_K12_P91'
   end
@@ -1316,7 +1266,7 @@ object fraTurb_KA: TfraTurb_KA
     Ctl3D = False
     ParentCtl3D = False
     ReadOnly = True
-    TabOrder = 99
+    TabOrder = 95
     Text = 'AI_K13_P91_VB_OUT'
     OPCTag = 'AI_K13_P91_VB_OUT'
   end
@@ -1328,21 +1278,9 @@ object fraTurb_KA: TfraTurb_KA
     Ctl3D = False
     ParentCtl3D = False
     ReadOnly = True
-    TabOrder = 100
+    TabOrder = 96
     Text = 'K14_S_em1'
     OPCTag = 'K14_S_em1'
-  end
-  object OPCEdit42: TOPCEdit
-    Left = 638
-    Top = 337
-    Width = 75
-    Height = 22
-    Ctl3D = False
-    ParentCtl3D = False
-    ReadOnly = True
-    TabOrder = 101
-    Text = 'Q_p_p_2n_k11_Val'
-    OPCTag = 'Q_p_p_2n_k11_Val'
   end
   object Edit48: TEdit
     Left = 8
@@ -1355,7 +1293,7 @@ object fraTurb_KA: TfraTurb_KA
     Ctl3D = False
     ParentCtl3D = False
     ReadOnly = True
-    TabOrder = 102
+    TabOrder = 97
     Text = 'P92'
   end
   object OPCEdit45: TOPCEdit
@@ -1366,7 +1304,7 @@ object fraTurb_KA: TfraTurb_KA
     Ctl3D = False
     ParentCtl3D = False
     ReadOnly = True
-    TabOrder = 103
+    TabOrder = 98
     Text = 'AI_K11_P92_VB_OUT'
     OPCTag = 'AI_K11_P92_VB_OUT'
   end
@@ -1378,7 +1316,7 @@ object fraTurb_KA: TfraTurb_KA
     Ctl3D = False
     ParentCtl3D = False
     ReadOnly = True
-    TabOrder = 104
+    TabOrder = 99
     Text = 'AI_K12_P92'
     OPCTag = 'AI_K12_P92'
   end
@@ -1390,7 +1328,7 @@ object fraTurb_KA: TfraTurb_KA
     Ctl3D = False
     ParentCtl3D = False
     ReadOnly = True
-    TabOrder = 105
+    TabOrder = 100
     Text = 'AI_K13_P92_VB_OUT'
     OPCTag = 'AI_K13_P92_VB_OUT'
   end
@@ -1402,21 +1340,9 @@ object fraTurb_KA: TfraTurb_KA
     Ctl3D = False
     ParentCtl3D = False
     ReadOnly = True
-    TabOrder = 106
+    TabOrder = 101
     Text = 'K14_S_em2'
     OPCTag = 'K14_S_em2'
-  end
-  object OPCEdit49: TOPCEdit
-    Left = 638
-    Top = 358
-    Width = 75
-    Height = 22
-    Ctl3D = False
-    ParentCtl3D = False
-    ReadOnly = True
-    TabOrder = 107
-    Text = 'Q_p_p_2n_k11_Val'
-    OPCTag = 'Q_p_p_2n_k11_Val'
   end
   object Edit49: TEdit
     Left = 8
@@ -1429,7 +1355,7 @@ object fraTurb_KA: TfraTurb_KA
     Ctl3D = False
     ParentCtl3D = False
     ReadOnly = True
-    TabOrder = 108
+    TabOrder = 102
     Text = 'P93'
   end
   object OPCEdit50: TOPCEdit
@@ -1440,7 +1366,7 @@ object fraTurb_KA: TfraTurb_KA
     Ctl3D = False
     ParentCtl3D = False
     ReadOnly = True
-    TabOrder = 109
+    TabOrder = 103
     Text = 'AI_K11_P93_VB_OUT'
     OPCTag = 'AI_K11_P93_VB_OUT'
   end
@@ -1452,7 +1378,7 @@ object fraTurb_KA: TfraTurb_KA
     Ctl3D = False
     ParentCtl3D = False
     ReadOnly = True
-    TabOrder = 110
+    TabOrder = 104
     Text = 'AI_K12_P93'
     OPCTag = 'AI_K12_P93'
   end
@@ -1464,7 +1390,7 @@ object fraTurb_KA: TfraTurb_KA
     Ctl3D = False
     ParentCtl3D = False
     ReadOnly = True
-    TabOrder = 111
+    TabOrder = 105
     Text = 'AI_K13_P93_VB_OUT'
     OPCTag = 'AI_K13_P93_VB_OUT'
   end
@@ -1476,21 +1402,9 @@ object fraTurb_KA: TfraTurb_KA
     Ctl3D = False
     ParentCtl3D = False
     ReadOnly = True
-    TabOrder = 112
+    TabOrder = 106
     Text = 'K14_S_em3'
     OPCTag = 'K14_S_em3'
-  end
-  object OPCEdit56: TOPCEdit
-    Left = 638
-    Top = 379
-    Width = 75
-    Height = 22
-    Ctl3D = False
-    ParentCtl3D = False
-    ReadOnly = True
-    TabOrder = 113
-    Text = 'Q_p_p_2n_k11_Val'
-    OPCTag = 'Q_p_p_2n_k11_Val'
   end
   object Edit50: TEdit
     Left = 8
@@ -1503,7 +1417,7 @@ object fraTurb_KA: TfraTurb_KA
     Ctl3D = False
     ParentCtl3D = False
     ReadOnly = True
-    TabOrder = 114
+    TabOrder = 107
     Text = 'P94'
   end
   object OPCEdit57: TOPCEdit
@@ -1514,7 +1428,7 @@ object fraTurb_KA: TfraTurb_KA
     Ctl3D = False
     ParentCtl3D = False
     ReadOnly = True
-    TabOrder = 115
+    TabOrder = 108
     Text = 'AI_K11_P94_VB_OUT'
     OPCTag = 'AI_K11_P94_VB_OUT'
   end
@@ -1526,7 +1440,7 @@ object fraTurb_KA: TfraTurb_KA
     Ctl3D = False
     ParentCtl3D = False
     ReadOnly = True
-    TabOrder = 116
+    TabOrder = 109
     Text = 'AI_K12_P94'
     OPCTag = 'AI_K12_P94'
   end
@@ -1538,7 +1452,7 @@ object fraTurb_KA: TfraTurb_KA
     Ctl3D = False
     ParentCtl3D = False
     ReadOnly = True
-    TabOrder = 117
+    TabOrder = 110
     Text = 'AI_K13_P94_VB_OUT'
     OPCTag = 'AI_K13_P94_VB_OUT'
   end
@@ -1550,21 +1464,9 @@ object fraTurb_KA: TfraTurb_KA
     Ctl3D = False
     ParentCtl3D = False
     ReadOnly = True
-    TabOrder = 118
+    TabOrder = 111
     Text = 'K14_S_em4'
     OPCTag = 'K14_S_em4'
-  end
-  object OPCEdit63: TOPCEdit
-    Left = 638
-    Top = 400
-    Width = 75
-    Height = 22
-    Ctl3D = False
-    ParentCtl3D = False
-    ReadOnly = True
-    TabOrder = 119
-    Text = 'Q_p_p_2n_k11_Val'
-    OPCTag = 'Q_p_p_2n_k11_Val'
   end
   object Edit51: TEdit
     Left = 8
@@ -1577,7 +1479,7 @@ object fraTurb_KA: TfraTurb_KA
     Ctl3D = False
     ParentCtl3D = False
     ReadOnly = True
-    TabOrder = 120
+    TabOrder = 112
     Text = #1056#1072#1079#1088#1077#1078#1077#1085#1080#1077' '#1087#1077#1088#1077#1076' '#1044#1057' '#1040
   end
   object OPCEdit64: TOPCEdit
@@ -1588,7 +1490,7 @@ object fraTurb_KA: TfraTurb_KA
     Ctl3D = False
     ParentCtl3D = False
     ReadOnly = True
-    TabOrder = 121
+    TabOrder = 113
     Text = 'AI_K11_P50_VB_OUT'
     OPCTag = 'AI_K11_P50_VB_OUT'
   end
@@ -1600,7 +1502,7 @@ object fraTurb_KA: TfraTurb_KA
     Ctl3D = False
     ParentCtl3D = False
     ReadOnly = True
-    TabOrder = 122
+    TabOrder = 114
     Text = 'AI_K12_P20'
     OPCTag = 'AI_K12_P20'
   end
@@ -1612,7 +1514,7 @@ object fraTurb_KA: TfraTurb_KA
     Ctl3D = False
     ParentCtl3D = False
     ReadOnly = True
-    TabOrder = 123
+    TabOrder = 115
     Text = 'AI_K13_P50_VB_OUT'
     OPCTag = 'AI_K13_P50_VB_OUT'
   end
@@ -1624,21 +1526,9 @@ object fraTurb_KA: TfraTurb_KA
     Ctl3D = False
     ParentCtl3D = False
     ReadOnly = True
-    TabOrder = 124
+    TabOrder = 116
     Text = 'K14_S_DSA'
     OPCTag = 'K14_S_DSA'
-  end
-  object OPCEdit68: TOPCEdit
-    Left = 638
-    Top = 421
-    Width = 75
-    Height = 22
-    Ctl3D = False
-    ParentCtl3D = False
-    ReadOnly = True
-    TabOrder = 125
-    Text = 'Q_p_p_2n_k11_Val'
-    OPCTag = 'Q_p_p_2n_k11_Val'
   end
   object Edit52: TEdit
     Left = 8
@@ -1651,7 +1541,7 @@ object fraTurb_KA: TfraTurb_KA
     Ctl3D = False
     ParentCtl3D = False
     ReadOnly = True
-    TabOrder = 126
+    TabOrder = 117
     Text = #1056#1072#1079#1088#1077#1078#1077#1085#1080#1077' '#1087#1077#1088#1077#1076' '#1044#1057' '#1041
   end
   object OPCEdit69: TOPCEdit
@@ -1662,7 +1552,7 @@ object fraTurb_KA: TfraTurb_KA
     Ctl3D = False
     ParentCtl3D = False
     ReadOnly = True
-    TabOrder = 127
+    TabOrder = 118
     Text = 'AI_K11_P51_VB_OUT'
     OPCTag = 'AI_K11_P51_VB_OUT'
   end
@@ -1674,7 +1564,7 @@ object fraTurb_KA: TfraTurb_KA
     Ctl3D = False
     ParentCtl3D = False
     ReadOnly = True
-    TabOrder = 128
+    TabOrder = 119
     Text = 'AI_K12_P21'
     OPCTag = 'AI_K12_P21'
   end
@@ -1686,7 +1576,7 @@ object fraTurb_KA: TfraTurb_KA
     Ctl3D = False
     ParentCtl3D = False
     ReadOnly = True
-    TabOrder = 129
+    TabOrder = 120
     Text = 'AI_K13_P51_VB_OUT'
     OPCTag = 'AI_K13_P51_VB_OUT'
   end
@@ -1698,21 +1588,9 @@ object fraTurb_KA: TfraTurb_KA
     Ctl3D = False
     ParentCtl3D = False
     ReadOnly = True
-    TabOrder = 130
+    TabOrder = 121
     Text = 'K14_S_DSB'
     OPCTag = 'K14_S_DSB'
-  end
-  object OPCEdit75: TOPCEdit
-    Left = 638
-    Top = 442
-    Width = 75
-    Height = 22
-    Ctl3D = False
-    ParentCtl3D = False
-    ReadOnly = True
-    TabOrder = 131
-    Text = 'Q_p_p_2n_k11_Val'
-    OPCTag = 'Q_p_p_2n_k11_Val'
   end
   object Edit53: TEdit
     Left = 8
@@ -1725,7 +1603,7 @@ object fraTurb_KA: TfraTurb_KA
     Ctl3D = False
     ParentCtl3D = False
     ReadOnly = True
-    TabOrder = 132
+    TabOrder = 122
     Text = #1057#1086#1087#1088#1086#1090#1080#1074#1083#1077#1085#1080#1077' '#1101#1084#1091#1083#1100#1075#1072#1090#1086#1088#1072' '#8470'1'
   end
   object OPCE_P_atm: TOPCEdit
@@ -1736,7 +1614,7 @@ object fraTurb_KA: TfraTurb_KA
     Ctl3D = False
     ParentCtl3D = False
     ReadOnly = True
-    TabOrder = 133
+    TabOrder = 123
     Text = 'P_atm'
     OPCTag = 'P_atm'
   end
@@ -1751,7 +1629,7 @@ object fraTurb_KA: TfraTurb_KA
     Ctl3D = False
     ParentCtl3D = False
     ReadOnly = True
-    TabOrder = 134
+    TabOrder = 124
     Text = #1057#1086#1087#1088#1086#1090#1080#1074#1083#1077#1085#1080#1077' '#1101#1084#1091#1083#1100#1075#1072#1090#1086#1088#1072' '#8470'2'
   end
   object Edit55: TEdit
@@ -1765,7 +1643,7 @@ object fraTurb_KA: TfraTurb_KA
     Ctl3D = False
     ParentCtl3D = False
     ReadOnly = True
-    TabOrder = 135
+    TabOrder = 125
     Text = #1057#1086#1087#1088#1086#1090#1080#1074#1083#1077#1085#1080#1077' '#1101#1084#1091#1083#1100#1075#1072#1090#1086#1088#1072' '#8470'3'
   end
   object Edit56: TEdit
@@ -1779,7 +1657,7 @@ object fraTurb_KA: TfraTurb_KA
     Ctl3D = False
     ParentCtl3D = False
     ReadOnly = True
-    TabOrder = 136
+    TabOrder = 126
     Text = #1057#1086#1087#1088#1086#1090#1080#1074#1083#1077#1085#1080#1077' '#1101#1084#1091#1083#1100#1075#1072#1090#1086#1088#1072' '#8470'4'
   end
   object StaticText17: TStaticText
@@ -1792,7 +1670,7 @@ object fraTurb_KA: TfraTurb_KA
     BorderStyle = sbsSingle
     Color = clMoneyGreen
     ParentColor = False
-    TabOrder = 137
+    TabOrder = 127
   end
   object StaticText1: TStaticText
     Left = 416
@@ -1804,7 +1682,7 @@ object fraTurb_KA: TfraTurb_KA
     BorderStyle = sbsSingle
     Color = clMoneyGreen
     ParentColor = False
-    TabOrder = 138
+    TabOrder = 128
   end
   object StaticText2: TStaticText
     Left = 490
@@ -1816,7 +1694,7 @@ object fraTurb_KA: TfraTurb_KA
     BorderStyle = sbsSingle
     Color = clMoneyGreen
     ParentColor = False
-    TabOrder = 139
+    TabOrder = 129
   end
   object StaticText3: TStaticText
     Left = 564
@@ -1828,19 +1706,7 @@ object fraTurb_KA: TfraTurb_KA
     BorderStyle = sbsSingle
     Color = clMoneyGreen
     ParentColor = False
-    TabOrder = 140
-  end
-  object StaticText4: TStaticText
-    Left = 638
-    Top = 547
-    Width = 75
-    Height = 22
-    Alignment = taCenter
-    AutoSize = False
-    BorderStyle = sbsSingle
-    Color = clMoneyGreen
-    ParentColor = False
-    TabOrder = 141
+    TabOrder = 130
   end
   object StaticText5: TStaticText
     Left = 342
@@ -1852,7 +1718,7 @@ object fraTurb_KA: TfraTurb_KA
     BorderStyle = sbsSingle
     Color = clMoneyGreen
     ParentColor = False
-    TabOrder = 142
+    TabOrder = 131
   end
   object StaticText6: TStaticText
     Left = 416
@@ -1864,7 +1730,7 @@ object fraTurb_KA: TfraTurb_KA
     BorderStyle = sbsSingle
     Color = clMoneyGreen
     ParentColor = False
-    TabOrder = 143
+    TabOrder = 132
   end
   object StaticText7: TStaticText
     Left = 490
@@ -1876,7 +1742,7 @@ object fraTurb_KA: TfraTurb_KA
     BorderStyle = sbsSingle
     Color = clMoneyGreen
     ParentColor = False
-    TabOrder = 144
+    TabOrder = 133
   end
   object StaticText8: TStaticText
     Left = 564
@@ -1888,19 +1754,7 @@ object fraTurb_KA: TfraTurb_KA
     BorderStyle = sbsSingle
     Color = clMoneyGreen
     ParentColor = False
-    TabOrder = 145
-  end
-  object StaticText9: TStaticText
-    Left = 638
-    Top = 568
-    Width = 75
-    Height = 22
-    Alignment = taCenter
-    AutoSize = False
-    BorderStyle = sbsSingle
-    Color = clMoneyGreen
-    ParentColor = False
-    TabOrder = 146
+    TabOrder = 134
   end
   object StaticText10: TStaticText
     Left = 342
@@ -1912,7 +1766,7 @@ object fraTurb_KA: TfraTurb_KA
     BorderStyle = sbsSingle
     Color = clMoneyGreen
     ParentColor = False
-    TabOrder = 147
+    TabOrder = 135
   end
   object StaticText11: TStaticText
     Left = 416
@@ -1924,7 +1778,7 @@ object fraTurb_KA: TfraTurb_KA
     BorderStyle = sbsSingle
     Color = clMoneyGreen
     ParentColor = False
-    TabOrder = 148
+    TabOrder = 136
   end
   object StaticText12: TStaticText
     Left = 490
@@ -1936,7 +1790,7 @@ object fraTurb_KA: TfraTurb_KA
     BorderStyle = sbsSingle
     Color = clMoneyGreen
     ParentColor = False
-    TabOrder = 149
+    TabOrder = 137
   end
   object StaticText13: TStaticText
     Left = 564
@@ -1948,19 +1802,7 @@ object fraTurb_KA: TfraTurb_KA
     BorderStyle = sbsSingle
     Color = clMoneyGreen
     ParentColor = False
-    TabOrder = 150
-  end
-  object StaticText14: TStaticText
-    Left = 638
-    Top = 589
-    Width = 75
-    Height = 22
-    Alignment = taCenter
-    AutoSize = False
-    BorderStyle = sbsSingle
-    Color = clMoneyGreen
-    ParentColor = False
-    TabOrder = 151
+    TabOrder = 138
   end
   object StaticText15: TStaticText
     Left = 342
@@ -1972,7 +1814,7 @@ object fraTurb_KA: TfraTurb_KA
     BorderStyle = sbsSingle
     Color = clMoneyGreen
     ParentColor = False
-    TabOrder = 152
+    TabOrder = 139
   end
   object StaticText16: TStaticText
     Left = 416
@@ -1984,7 +1826,7 @@ object fraTurb_KA: TfraTurb_KA
     BorderStyle = sbsSingle
     Color = clMoneyGreen
     ParentColor = False
-    TabOrder = 153
+    TabOrder = 140
   end
   object StaticText18: TStaticText
     Left = 490
@@ -1996,7 +1838,7 @@ object fraTurb_KA: TfraTurb_KA
     BorderStyle = sbsSingle
     Color = clMoneyGreen
     ParentColor = False
-    TabOrder = 154
+    TabOrder = 141
   end
   object StaticText19: TStaticText
     Left = 564
@@ -2008,19 +1850,7 @@ object fraTurb_KA: TfraTurb_KA
     BorderStyle = sbsSingle
     Color = clMoneyGreen
     ParentColor = False
-    TabOrder = 155
-  end
-  object StaticText20: TStaticText
-    Left = 638
-    Top = 610
-    Width = 75
-    Height = 22
-    Alignment = taCenter
-    AutoSize = False
-    BorderStyle = sbsSingle
-    Color = clMoneyGreen
-    ParentColor = False
-    TabOrder = 156
+    TabOrder = 142
   end
   object Edit57: TEdit
     Left = 8
@@ -2033,7 +1863,7 @@ object fraTurb_KA: TfraTurb_KA
     Ctl3D = False
     ParentCtl3D = False
     ReadOnly = True
-    TabOrder = 157
+    TabOrder = 143
     Text = #1040#1090#1084#1086#1089#1092#1077#1088#1085#1086#1077' '#1076#1072#1074#1083#1077#1085#1080#1077
   end
   object Edit58: TEdit
@@ -2047,7 +1877,7 @@ object fraTurb_KA: TfraTurb_KA
     Ctl3D = False
     ParentCtl3D = False
     ReadOnly = True
-    TabOrder = 158
+    TabOrder = 144
     Text = #1056#1072#1079#1088#1077#1078#1077#1085#1080#1077' '#1087#1077#1088#1077#1076' '#1101#1084#1091#1083#1100#1075#1072#1090#1086#1088#1086#1084' '#8470'1'
   end
   object Edit59: TEdit
@@ -2061,7 +1891,7 @@ object fraTurb_KA: TfraTurb_KA
     Ctl3D = False
     ParentCtl3D = False
     ReadOnly = True
-    TabOrder = 159
+    TabOrder = 145
     Text = #1056#1072#1079#1088#1077#1078#1077#1085#1080#1077' '#1087#1077#1088#1077#1076' '#1101#1084#1091#1083#1100#1075#1072#1090#1086#1088#1086#1084' '#8470'2'
   end
   object Edit60: TEdit
@@ -2075,7 +1905,7 @@ object fraTurb_KA: TfraTurb_KA
     Ctl3D = False
     ParentCtl3D = False
     ReadOnly = True
-    TabOrder = 160
+    TabOrder = 146
     Text = #1056#1072#1079#1088#1077#1078#1077#1085#1080#1077' '#1087#1077#1088#1077#1076' '#1101#1084#1091#1083#1100#1075#1072#1090#1086#1088#1086#1084' '#8470'3'
   end
   object Edit61: TEdit
@@ -2089,7 +1919,7 @@ object fraTurb_KA: TfraTurb_KA
     Ctl3D = False
     ParentCtl3D = False
     ReadOnly = True
-    TabOrder = 161
+    TabOrder = 147
     Text = #1056#1072#1079#1088#1077#1078#1077#1085#1080#1077' '#1087#1077#1088#1077#1076' '#1101#1084#1091#1083#1100#1075#1072#1090#1086#1088#1086#1084' '#8470'4'
   end
   object StaticText21: TStaticText
@@ -2102,7 +1932,7 @@ object fraTurb_KA: TfraTurb_KA
     BorderStyle = sbsSingle
     Color = clMoneyGreen
     ParentColor = False
-    TabOrder = 162
+    TabOrder = 148
   end
   object StaticText22: TStaticText
     Left = 416
@@ -2114,7 +1944,7 @@ object fraTurb_KA: TfraTurb_KA
     BorderStyle = sbsSingle
     Color = clMoneyGreen
     ParentColor = False
-    TabOrder = 163
+    TabOrder = 149
   end
   object StaticText23: TStaticText
     Left = 490
@@ -2126,19 +1956,7 @@ object fraTurb_KA: TfraTurb_KA
     BorderStyle = sbsSingle
     Color = clMoneyGreen
     ParentColor = False
-    TabOrder = 164
-  end
-  object StaticText25: TStaticText
-    Left = 638
-    Top = 463
-    Width = 75
-    Height = 22
-    Alignment = taCenter
-    AutoSize = False
-    BorderStyle = sbsSingle
-    Color = clMoneyGreen
-    ParentColor = False
-    TabOrder = 165
+    TabOrder = 150
   end
   object StaticText26: TStaticText
     Left = 342
@@ -2150,7 +1968,7 @@ object fraTurb_KA: TfraTurb_KA
     BorderStyle = sbsSingle
     Color = clMoneyGreen
     ParentColor = False
-    TabOrder = 166
+    TabOrder = 151
   end
   object StaticText27: TStaticText
     Left = 416
@@ -2162,7 +1980,7 @@ object fraTurb_KA: TfraTurb_KA
     BorderStyle = sbsSingle
     Color = clMoneyGreen
     ParentColor = False
-    TabOrder = 167
+    TabOrder = 152
   end
   object StaticText28: TStaticText
     Left = 490
@@ -2174,19 +1992,7 @@ object fraTurb_KA: TfraTurb_KA
     BorderStyle = sbsSingle
     Color = clMoneyGreen
     ParentColor = False
-    TabOrder = 168
-  end
-  object StaticText30: TStaticText
-    Left = 638
-    Top = 484
-    Width = 75
-    Height = 22
-    Alignment = taCenter
-    AutoSize = False
-    BorderStyle = sbsSingle
-    Color = clMoneyGreen
-    ParentColor = False
-    TabOrder = 169
+    TabOrder = 153
   end
   object StaticText31: TStaticText
     Left = 342
@@ -2198,7 +2004,7 @@ object fraTurb_KA: TfraTurb_KA
     BorderStyle = sbsSingle
     Color = clMoneyGreen
     ParentColor = False
-    TabOrder = 170
+    TabOrder = 154
   end
   object StaticText32: TStaticText
     Left = 416
@@ -2210,7 +2016,7 @@ object fraTurb_KA: TfraTurb_KA
     BorderStyle = sbsSingle
     Color = clMoneyGreen
     ParentColor = False
-    TabOrder = 171
+    TabOrder = 155
   end
   object StaticText33: TStaticText
     Left = 490
@@ -2222,19 +2028,7 @@ object fraTurb_KA: TfraTurb_KA
     BorderStyle = sbsSingle
     Color = clMoneyGreen
     ParentColor = False
-    TabOrder = 172
-  end
-  object StaticText35: TStaticText
-    Left = 638
-    Top = 505
-    Width = 75
-    Height = 22
-    Alignment = taCenter
-    AutoSize = False
-    BorderStyle = sbsSingle
-    Color = clMoneyGreen
-    ParentColor = False
-    TabOrder = 173
+    TabOrder = 156
   end
   object StaticText36: TStaticText
     Left = 342
@@ -2246,7 +2040,7 @@ object fraTurb_KA: TfraTurb_KA
     BorderStyle = sbsSingle
     Color = clMoneyGreen
     ParentColor = False
-    TabOrder = 174
+    TabOrder = 157
   end
   object StaticText37: TStaticText
     Left = 416
@@ -2258,7 +2052,7 @@ object fraTurb_KA: TfraTurb_KA
     BorderStyle = sbsSingle
     Color = clMoneyGreen
     ParentColor = False
-    TabOrder = 175
+    TabOrder = 158
   end
   object StaticText38: TStaticText
     Left = 490
@@ -2270,19 +2064,47 @@ object fraTurb_KA: TfraTurb_KA
     BorderStyle = sbsSingle
     Color = clMoneyGreen
     ParentColor = False
-    TabOrder = 176
+    TabOrder = 159
   end
-  object StaticText40: TStaticText
-    Left = 638
-    Top = 526
+  object OPCEdit26: TOPCEdit
+    Left = 564
+    Top = 337
     Width = 75
     Height = 22
-    Alignment = taCenter
-    AutoSize = False
-    BorderStyle = sbsSingle
-    Color = clMoneyGreen
-    ParentColor = False
-    TabOrder = 177
+    Ctl3D = False
+    ParentCtl3D = False
+    ReadOnly = True
+    TabOrder = 160
+  end
+  object OPCEdit31: TOPCEdit
+    Left = 564
+    Top = 358
+    Width = 75
+    Height = 22
+    Ctl3D = False
+    ParentCtl3D = False
+    ReadOnly = True
+    TabOrder = 161
+  end
+  object OPCEdit37: TOPCEdit
+    Left = 564
+    Top = 379
+    Width = 75
+    Height = 22
+    Ctl3D = False
+    ParentCtl3D = False
+    ReadOnly = True
+    TabOrder = 162
+  end
+  object OPCEdit42: TOPCEdit
+    Left = 564
+    Top = 400
+    Width = 75
+    Height = 22
+    Ctl3D = False
+    ParentCtl3D = False
+    ReadOnly = True
+    TabOrder = 163
   end
   object tmrKA: TTimer
     Enabled = False

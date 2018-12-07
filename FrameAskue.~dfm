@@ -411,7 +411,7 @@ object fraAskue: TfraAskue
     Height = 20
     AutoSize = False
     BorderStyle = sbsSingle
-    Caption = #1060#1080#1076#1077#1088' '#8470'2 '#1050#1040#1047#1062#1048#1053#1050
+    Caption = #1060#1080#1076' '#8470'2 '#1050#1040#1047#1062#1048#1053#1050
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -11
@@ -427,7 +427,7 @@ object fraAskue: TfraAskue
     Height = 20
     AutoSize = False
     BorderStyle = sbsSingle
-    Caption = #1060#1080#1076#1077#1088' '#8470'5 '#1041#1053'-2 1'#1089#1077#1082#1094'.'
+    Caption = #1060#1080#1076' '#8470'5 '#1041#1053'-2 1'#1089#1077#1082#1094'.'
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -11
@@ -443,7 +443,7 @@ object fraAskue: TfraAskue
     Height = 20
     AutoSize = False
     BorderStyle = sbsSingle
-    Caption = #1060#1080#1076#1077#1088' '#8470'6 '#1056#1059#1057#1053'-6'#1082#1042' 4'#1089
+    Caption = #1060#1080#1076' '#8470'6 '#1056#1059#1057#1053'-6'#1082#1042' 4'#1089
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -11
@@ -459,7 +459,7 @@ object fraAskue: TfraAskue
     Height = 20
     AutoSize = False
     BorderStyle = sbsSingle
-    Caption = #1060#1080#1076#1077#1088' '#8470'7 '#1050#1040#1047#1062#1048#1053#1050
+    Caption = #1060#1080#1076' '#8470'7 '#1050#1040#1047#1062#1048#1053#1050
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -11
@@ -475,7 +475,7 @@ object fraAskue: TfraAskue
     Height = 20
     AutoSize = False
     BorderStyle = sbsSingle
-    Caption = #1060#1080#1076#1077#1088' '#8470'8 '#1056#1059#1057#1053'-6'#1082#1042' 9'#1089
+    Caption = #1060#1080#1076' '#8470'8 '#1056#1059#1057#1053'-6'#1082#1042' 9'#1089
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -11
@@ -491,7 +491,7 @@ object fraAskue: TfraAskue
     Height = 20
     AutoSize = False
     BorderStyle = sbsSingle
-    Caption = #1060#1080#1076#1077#1088' '#8470'9 '#1056#1059#1057#1053'-6'#1082#1042' 3'#1089
+    Caption = #1060#1080#1076' '#8470'9 '#1056#1059#1057#1053'-6'#1082#1042' 3'#1089
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -11
@@ -507,7 +507,7 @@ object fraAskue: TfraAskue
     Height = 20
     AutoSize = False
     BorderStyle = sbsSingle
-    Caption = #1060#1080#1076#1077#1088' '#8470'10 '#1056#1059#1057#1053'-6'#1082#1042' 7'
+    Caption = #1060#1080#1076' '#8470'10 '#1056#1059#1057#1053'-6'#1082#1042' 7'
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -11
@@ -523,7 +523,7 @@ object fraAskue: TfraAskue
     Height = 20
     AutoSize = False
     BorderStyle = sbsSingle
-    Caption = #1060#1080#1076#1077#1088' '#8470'3 '#1050#1040#1047#1062#1048#1053#1050
+    Caption = #1060#1080#1076' '#8470'3 '#1050#1040#1047#1062#1048#1053#1050
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -11
@@ -539,7 +539,7 @@ object fraAskue: TfraAskue
     Height = 20
     AutoSize = False
     BorderStyle = sbsSingle
-    Caption = #1060#1080#1076#1077#1088' '#8470'14 '#1054#1042#1050' '#1058'-1'
+    Caption = #1060#1080#1076' '#8470'14 '#1054#1042#1050' '#1058'-1'
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -11
@@ -555,7 +555,7 @@ object fraAskue: TfraAskue
     Height = 20
     AutoSize = False
     BorderStyle = sbsSingle
-    Caption = #1060#1080#1076#1077#1088' '#8470'19 '#1056#1059#1057#1053'-6'#1082#1042' 6'
+    Caption = #1060#1080#1076' '#8470'19 '#1056#1059#1057#1053'-6'#1082#1042' 6'
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -11
@@ -571,7 +571,7 @@ object fraAskue: TfraAskue
     Height = 20
     AutoSize = False
     BorderStyle = sbsSingle
-    Caption = #1060#1080#1076#1077#1088' '#8470'20 '#1056#1059#1057#1053'-6'#1082#1042' 1'
+    Caption = #1060#1080#1076' '#8470'20 '#1056#1059#1057#1053'-6'#1082#1042' 1'
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -11
@@ -587,7 +587,7 @@ object fraAskue: TfraAskue
     Height = 20
     AutoSize = False
     BorderStyle = sbsSingle
-    Caption = #1060#1080#1076#1077#1088' '#8470'22 '#1056#1077#1079'.5-6 '#1086#1095
+    Caption = #1060#1080#1076' '#8470'22 '#1056#1077#1079'.5-6 '#1086#1095
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -11
@@ -603,7 +603,7 @@ object fraAskue: TfraAskue
     Height = 20
     AutoSize = False
     BorderStyle = sbsSingle
-    Caption = #1060#1080#1076#1077#1088' '#8470'24 '#1050#1040#1047#1062#1048#1053#1050
+    Caption = #1060#1080#1076' '#8470'24 '#1050#1040#1047#1062#1048#1053#1050
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -11
@@ -619,7 +619,7 @@ object fraAskue: TfraAskue
     Height = 20
     AutoSize = False
     BorderStyle = sbsSingle
-    Caption = #1060#1080#1076#1077#1088' '#8470'25 '#1041#1053'-2 '#1056#1077#1079'.'
+    Caption = #1060#1080#1076' '#8470'25 '#1041#1053'-2 '#1056#1077#1079'.'
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -11
@@ -635,7 +635,7 @@ object fraAskue: TfraAskue
     Height = 20
     AutoSize = False
     BorderStyle = sbsSingle
-    Caption = #1060#1080#1076#1077#1088' 27 '#1056#1077#1079'.'#1057#1044'.'#1042#1044'.'
+    Caption = #1060#1080#1076' 27 '#1056#1077#1079'.'#1057#1044'.'#1042#1044'.'
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -11
@@ -651,7 +651,7 @@ object fraAskue: TfraAskue
     Height = 20
     AutoSize = False
     BorderStyle = sbsSingle
-    Caption = #1060#1080#1076#1077#1088' '#8470'15 '#1050#1040#1047#1062#1048#1053#1050
+    Caption = #1060#1080#1076' '#8470'15 '#1050#1040#1047#1062#1048#1053#1050
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -11
@@ -667,7 +667,7 @@ object fraAskue: TfraAskue
     Height = 20
     AutoSize = False
     BorderStyle = sbsSingle
-    Caption = #1060#1080#1076#1077#1088' '#8470'28 '#1050#1040#1047#1062#1048#1053#1050
+    Caption = #1060#1080#1076' '#8470'28 '#1050#1040#1047#1062#1048#1053#1050
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -11
@@ -683,7 +683,7 @@ object fraAskue: TfraAskue
     Height = 20
     AutoSize = False
     BorderStyle = sbsSingle
-    Caption = #1060#1080#1076#1077#1088' 30'
+    Caption = #1060#1080#1076' 30 '#1056#1069#1050' '#1062#1056#1055'-5'
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -11
@@ -699,7 +699,7 @@ object fraAskue: TfraAskue
     Height = 20
     AutoSize = False
     BorderStyle = sbsSingle
-    Caption = #1060#1080#1076#1077#1088' 33 '#1058'-1-16 '#1052#1042#1040
+    Caption = #1060#1080#1076' 33 '#1058'-1-16 '#1052#1042#1040
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -11
@@ -799,7 +799,7 @@ object fraAskue: TfraAskue
     Height = 20
     AutoSize = False
     BorderStyle = sbsSingle
-    Caption = #1060#1080#1076#1077#1088' '#8470'34 '#1050#1040#1047#1062#1048#1053#1050
+    Caption = #1060#1080#1076' '#8470'34 '#1050#1040#1047#1062#1048#1053#1050
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -11
@@ -815,7 +815,7 @@ object fraAskue: TfraAskue
     Height = 20
     AutoSize = False
     BorderStyle = sbsSingle
-    Caption = #1060#1080#1076#1077#1088' '#8470'40 '#1050#1040#1047#1062#1048#1053#1050
+    Caption = #1060#1080#1076' '#8470'40 '#1050#1040#1047#1062#1048#1053#1050
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -11
@@ -831,7 +831,7 @@ object fraAskue: TfraAskue
     Height = 20
     AutoSize = False
     BorderStyle = sbsSingle
-    Caption = #1060#1080#1076#1077#1088' 42 '#1058'-2-16 '#1052#1042#1040
+    Caption = #1060#1080#1076' 42 '#1058'-2-16 '#1052#1042#1040
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -11
@@ -847,7 +847,7 @@ object fraAskue: TfraAskue
     Height = 20
     AutoSize = False
     BorderStyle = sbsSingle
-    Caption = #1060#1080#1076#1077#1088' 45'
+    Caption = #1060#1080#1076' 45 '#1056#1069#1050' '#1062#1056#1055'-5'
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -11
@@ -863,7 +863,7 @@ object fraAskue: TfraAskue
     Height = 20
     AutoSize = False
     BorderStyle = sbsSingle
-    Caption = #1060#1080#1076#1077#1088' '#8470'46 '#1050#1040#1047#1062#1048#1053#1050
+    Caption = #1060#1080#1076' '#8470'46 '#1050#1040#1047#1062#1048#1053#1050
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -11
@@ -3507,7 +3507,7 @@ object fraAskue: TfraAskue
     Height = 20
     AutoSize = False
     BorderStyle = sbsSingle
-    Caption = #1060#1080#1076#1077#1088#1072' '#1089#1086#1073#1089#1090#1074#1077#1085#1085#1099#1093' '#1085#1091#1078#1076
+    Caption = #1060#1080#1076#1077#1088#1072' '#1089#1086#1073#1089#1090#1074#1077#1085#1085#1099#1093' '#1085#1091#1078#1076' + '#1058#1057#1053
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -11
@@ -3523,7 +3523,7 @@ object fraAskue: TfraAskue
     Height = 20
     AutoSize = False
     BorderStyle = sbsSingle
-    Caption = #1060#1080#1076#1077#1088' '#8470'5 '#1041#1053'-2 1'#1089#1077#1082#1094'.'
+    Caption = #1060#1080#1076' '#8470'5 '#1041#1053'-2 1'#1089#1077#1082#1094'.'
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -11
@@ -3539,7 +3539,7 @@ object fraAskue: TfraAskue
     Height = 20
     AutoSize = False
     BorderStyle = sbsSingle
-    Caption = #1060#1080#1076#1077#1088' '#8470'6 '#1056#1059#1057#1053'-6'#1082#1042' 4'#1089
+    Caption = #1060#1080#1076' '#8470'6 '#1056#1059#1057#1053'-6'#1082#1042' 4'#1089
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -11
@@ -3555,7 +3555,7 @@ object fraAskue: TfraAskue
     Height = 20
     AutoSize = False
     BorderStyle = sbsSingle
-    Caption = #1060#1080#1076#1077#1088' '#8470'8 '#1056#1059#1057#1053'-6'#1082#1042' 9'#1089
+    Caption = #1060#1080#1076' '#8470'8 '#1056#1059#1057#1053'-6'#1082#1042' 9'#1089
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -11
@@ -3571,7 +3571,7 @@ object fraAskue: TfraAskue
     Height = 20
     AutoSize = False
     BorderStyle = sbsSingle
-    Caption = #1060#1080#1076#1077#1088' '#8470'9 '#1056#1059#1057#1053'-6'#1082#1042' 3'#1089
+    Caption = #1060#1080#1076' '#8470'9 '#1056#1059#1057#1053'-6'#1082#1042' 3'#1089
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -11
@@ -3587,7 +3587,7 @@ object fraAskue: TfraAskue
     Height = 20
     AutoSize = False
     BorderStyle = sbsSingle
-    Caption = #1060#1080#1076#1077#1088' '#8470'10 '#1056#1059#1057#1053'-6'#1082#1042' 7'
+    Caption = #1060#1080#1076' '#8470'10 '#1056#1059#1057#1053'-6'#1082#1042' 7'
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -11
@@ -3603,7 +3603,7 @@ object fraAskue: TfraAskue
     Height = 20
     AutoSize = False
     BorderStyle = sbsSingle
-    Caption = #1060#1080#1076#1077#1088' '#8470'14 '#1054#1042#1050' '#1058'-1'
+    Caption = #1060#1080#1076' '#8470'14 '#1054#1042#1050' '#1058'-1'
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -11
@@ -3619,7 +3619,7 @@ object fraAskue: TfraAskue
     Height = 20
     AutoSize = False
     BorderStyle = sbsSingle
-    Caption = #1060#1080#1076#1077#1088' '#8470'19 '#1056#1059#1057#1053'-6'#1082#1042' 6'
+    Caption = #1060#1080#1076' '#8470'19 '#1056#1059#1057#1053'-6'#1082#1042' 6'
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -11
@@ -3635,7 +3635,7 @@ object fraAskue: TfraAskue
     Height = 20
     AutoSize = False
     BorderStyle = sbsSingle
-    Caption = #1060#1080#1076#1077#1088' '#8470'20 '#1056#1059#1057#1053'-6'#1082#1042' 1'
+    Caption = #1060#1080#1076' '#8470'20 '#1056#1059#1057#1053'-6'#1082#1042' 1'
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -11
@@ -3651,7 +3651,7 @@ object fraAskue: TfraAskue
     Height = 20
     AutoSize = False
     BorderStyle = sbsSingle
-    Caption = #1060#1080#1076#1077#1088' '#8470'22 '#1056#1077#1079'.5-6 '#1086#1095
+    Caption = #1060#1080#1076' '#8470'22 '#1056#1077#1079'.5-6 '#1086#1095
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -11
@@ -3667,7 +3667,7 @@ object fraAskue: TfraAskue
     Height = 20
     AutoSize = False
     BorderStyle = sbsSingle
-    Caption = #1060#1080#1076#1077#1088' '#8470'25 '#1041#1053'-2 '#1056#1077#1079'.'
+    Caption = #1060#1080#1076' '#8470'25 '#1041#1053'-2 '#1056#1077#1079'.'
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -11
@@ -3683,7 +3683,7 @@ object fraAskue: TfraAskue
     Height = 20
     AutoSize = False
     BorderStyle = sbsSingle
-    Caption = #1060#1080#1076#1077#1088' 27 '#1056#1077#1079'.'#1057#1044'.'#1042#1044'.'
+    Caption = #1060#1080#1076' 27 '#1056#1077#1079'.'#1057#1044'.'#1042#1044'.'
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -11
@@ -3699,7 +3699,7 @@ object fraAskue: TfraAskue
     Height = 20
     AutoSize = False
     BorderStyle = sbsSingle
-    Caption = #1060#1080#1076#1077#1088' 33 '#1058'-1-16 '#1052#1042#1040
+    Caption = #1060#1080#1076' 33 '#1058'-1-16 '#1052#1042#1040
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -11
@@ -3715,7 +3715,7 @@ object fraAskue: TfraAskue
     Height = 20
     AutoSize = False
     BorderStyle = sbsSingle
-    Caption = #1060#1080#1076#1077#1088' 42 '#1058'-2-16 '#1052#1042#1040
+    Caption = #1060#1080#1076' 42 '#1058'-2-16 '#1052#1042#1040
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -11
@@ -3939,7 +3939,7 @@ object fraAskue: TfraAskue
     Height = 20
     AutoSize = False
     BorderStyle = sbsSingle
-    Caption = #1054#1090#1087'. '#1058#1043'-11 (10 '#1082#1042')'
+    Caption = #1058#1057#1053' '#1086#1090#1087'. '#1058#1043'-11'
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -11
@@ -4412,7 +4412,7 @@ object fraAskue: TfraAskue
     Height = 20
     AutoSize = False
     BorderStyle = sbsSingle
-    Caption = #1057#1086#1073#1089#1090#1074#1077#1085#1085#1099#1077' '#1085#1091#1078#1076#1099
+    Caption = #1057#1053' + '#1055#1086#1090#1077#1088#1080
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -11
@@ -4539,7 +4539,7 @@ object fraAskue: TfraAskue
     ReadOnly = True
     TabOrder = 343
     Text = 'TSN-2_TG-12_SN'
-    OPCTag = 'TSN-1_TG-12_SN'
+    OPCTag = 'TSN-2_TG-12_SN'
   end
   object StaticText39: TStaticText
     Left = 908
@@ -4599,7 +4599,7 @@ object fraAskue: TfraAskue
     ReadOnly = True
     TabOrder = 347
     Text = 'TG-12_A+'
-    OPCTag = 'TG-11_A+'
+    OPCTag = 'TG-12_A+'
   end
   object OPCEdit246: TOPCEdit
     Left = 230
@@ -4611,7 +4611,7 @@ object fraAskue: TfraAskue
     ReadOnly = True
     TabOrder = 348
     Text = 'TG-12_A-'
-    OPCTag = 'TG-11_A-'
+    OPCTag = 'TG-12_A-'
   end
   object OPCEdit247: TOPCEdit
     Left = 300
@@ -4623,7 +4623,7 @@ object fraAskue: TfraAskue
     ReadOnly = True
     TabOrder = 349
     Text = 'TG-12_R+'
-    OPCTag = 'TG-11_R+'
+    OPCTag = 'TG-12_R+'
   end
   object OPCEdit248: TOPCEdit
     Left = 370
@@ -4635,6 +4635,62 @@ object fraAskue: TfraAskue
     ReadOnly = True
     TabOrder = 350
     Text = 'TG-12_R-'
-    OPCTag = 'TG-11_R-'
+    OPCTag = 'TG-12_R-'
+  end
+  object OPCEdit249: TOPCEdit
+    Left = 1058
+    Top = 410
+    Width = 70
+    Height = 19
+    Ctl3D = False
+    ParentCtl3D = False
+    ReadOnly = True
+    TabOrder = 351
+    Text = 'TV_TG-11_SN'
+    OPCTag = 'TV_TG-11_SN'
+  end
+  object OPCEdit250: TOPCEdit
+    Left = 1058
+    Top = 430
+    Width = 70
+    Height = 19
+    Ctl3D = False
+    ParentCtl3D = False
+    ReadOnly = True
+    TabOrder = 352
+    Text = 'TV_TG-12_SN'
+    OPCTag = 'TV_TG-12_SN'
+  end
+  object StaticText42: TStaticText
+    Left = 908
+    Top = 410
+    Width = 150
+    Height = 20
+    AutoSize = False
+    BorderStyle = sbsSingle
+    Caption = #1058#1042' '#1058#1043'-11'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -11
+    Font.Name = 'MS Sans Serif'
+    Font.Style = [fsBold]
+    ParentFont = False
+    TabOrder = 353
+  end
+  object StaticText43: TStaticText
+    Left = 908
+    Top = 430
+    Width = 150
+    Height = 20
+    AutoSize = False
+    BorderStyle = sbsSingle
+    Caption = #1058#1042' '#1058#1043'-12'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -11
+    Font.Name = 'MS Sans Serif'
+    Font.Style = [fsBold]
+    ParentFont = False
+    TabOrder = 354
   end
 end

@@ -359,6 +359,10 @@ type
     OPCEdit246: TOPCEdit;
     OPCEdit247: TOPCEdit;
     OPCEdit248: TOPCEdit;
+    OPCEdit249: TOPCEdit;
+    OPCEdit250: TOPCEdit;
+    StaticText42: TStaticText;
+    StaticText43: TStaticText;
   private
     { Private declarations }
   public

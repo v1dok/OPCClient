@@ -1882,4 +1882,30 @@ object fraTurb_Ochered4: TfraTurb_Ochered4
     Text = 'El_provod_kondensat'
     OPCTag = 'El_provod_kondensat'
   end
+  object Edit76: TEdit
+    Left = 296
+    Top = 355
+    Width = 185
+    Height = 22
+    BevelInner = bvNone
+    BevelOuter = bvNone
+    Color = clBtnFace
+    Ctl3D = False
+    ParentCtl3D = False
+    ReadOnly = True
+    TabOrder = 145
+    Text = '(Q) '#1056#1072#1089#1093#1086#1076' '#1087#1072#1088' '#1090#1077#1087#1083#1103#1082
+  end
+  object OPCEdit49: TOPCEdit
+    Left = 480
+    Top = 355
+    Width = 75
+    Height = 22
+    Ctl3D = False
+    ParentCtl3D = False
+    ReadOnly = True
+    TabOrder = 146
+    Text = 'Q_nn_tepliak'
+    OPCTag = 'Q_nn_tepliak'
+  end
 end

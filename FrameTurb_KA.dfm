@@ -2066,41 +2066,53 @@ object fraTurb_KA: TfraTurb_KA
     ParentColor = False
     TabOrder = 159
   end
-  object OPCEdit26: TOPCEdit
+  object Edit44: TEdit
     Left = 564
     Top = 337
     Width = 75
     Height = 22
+    BevelInner = bvNone
+    BevelOuter = bvNone
+    Color = clBtnFace
     Ctl3D = False
     ParentCtl3D = False
     ReadOnly = True
     TabOrder = 160
   end
-  object OPCEdit31: TOPCEdit
+  object Edit62: TEdit
     Left = 564
     Top = 358
     Width = 75
     Height = 22
+    BevelInner = bvNone
+    BevelOuter = bvNone
+    Color = clBtnFace
     Ctl3D = False
     ParentCtl3D = False
     ReadOnly = True
     TabOrder = 161
   end
-  object OPCEdit37: TOPCEdit
+  object Edit63: TEdit
     Left = 564
     Top = 379
     Width = 75
     Height = 22
+    BevelInner = bvNone
+    BevelOuter = bvNone
+    Color = clBtnFace
     Ctl3D = False
     ParentCtl3D = False
     ReadOnly = True
     TabOrder = 162
   end
-  object OPCEdit42: TOPCEdit
+  object Edit64: TEdit
     Left = 564
     Top = 400
     Width = 75
     Height = 22
+    BevelInner = bvNone
+    BevelOuter = bvNone
+    Color = clBtnFace
     Ctl3D = False
     ParentCtl3D = False
     ReadOnly = True

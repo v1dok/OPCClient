@@ -170,10 +170,10 @@ type
     StaticText36: TStaticText;
     StaticText37: TStaticText;
     StaticText38: TStaticText;
-    OPCEdit26: TOPCEdit;
-    OPCEdit31: TOPCEdit;
-    OPCEdit37: TOPCEdit;
-    OPCEdit42: TOPCEdit;
+    Edit44: TEdit;
+    Edit62: TEdit;
+    Edit63: TEdit;
+    Edit64: TEdit;
     procedure tmrKATimer(Sender: TObject);
   private
     { Private declarations }
